@@ -6,8 +6,6 @@
 
 -----
 
-> Better instructions are coming soon!
-
 This is the Dudes of 708 wiki page on how to set up your **development environment**. If you're an experienced developer, jump to [Quickstart](#Quickstart), and if you're new to programming, jump to [Long Instructions](#Long-Instructions).
 
 ## Quickstart
