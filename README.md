@@ -4,7 +4,10 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
 
 ## Table of Contents
 
-* [Development Setup Guide](unity)
+* [Current Ideas](ideas)
+* Guides
+  * [Development Setup Guide](unity)
+  * [Git Setup](unity/git.html)
 
 -----
 
