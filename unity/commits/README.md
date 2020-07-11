@@ -2,7 +2,7 @@
 
 -----
 
-[Back to homepage](..)
+[Back to homepage](../..)
 
 -----
 
@@ -16,7 +16,7 @@ By the end of the guide, it is expected that you understand at a basic level wha
 * Pulling and Pushing Changes
 * Branches
 
-If you followed the [guide to setup Unity](.) then you'll know that you don't need any commands, all of these features are available to you in GitHub Desktop. But one more thing - if you are developing a new feature or part of the game that could break other parts of the game, instead of pushing directly, you'll need to make a pull request.
+If you followed the [guide to setup Unity](..) then you'll know that you don't need any commands, all of these features are available to you in GitHub Desktop. But one more thing - if you are developing a new feature or part of the game that could break other parts of the game, instead of pushing directly, you'll need to make a pull request.
 
 ### Pull Requests
 
