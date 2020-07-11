@@ -7,8 +7,8 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
 * [Current Ideas](ideas)
 * Guides
   * [Unity Setup Guide](unity)
+    * [Git Setup](unity/commits)
     * [Resources to Learn Unity](unity/learn)
-  * [Git Setup](unity/commits)
 
 -----
 
