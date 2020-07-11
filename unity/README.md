@@ -4,11 +4,11 @@
 
 [Back to homepage](..)
 
-[Forward to guide on git](commits)
+[Forward to guide on git](commits) • [Unity learning resources](learn)
 
 -----
 
-This is the Dudes of 708 wiki page on how to set up your **development environment**. If you're an experienced developer, jump to [Quickstart](#Quickstart), and if you're new to programming, jump to [Long Instructions](#Long-Instructions).
+This is the Dudes of 708 wiki page on how to set up your **development environment**. If you're an experienced developer, jump to [Quickstart](#quickstart), and if you're new to programming, jump to [Long Instructions](#long-instructions). **Once you're ready, check out [resources on learning](learn)!**
 
 ## Quickstart
 

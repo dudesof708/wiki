@@ -2,7 +2,9 @@
 
 -----
 
-[Back to homepage](../..)
+[Back to homepage](../..) • [Unity setup guide](..)
+
+[Go to Unity learning resources](../learn)
 
 -----
 
