@@ -22,3 +22,15 @@ If you're an experienced developer, follow the quickstart. Otherwise, jump down 
    ![.NET Installer](https://i.imgur.com/aYdqEhY.png)
 3. If you chose to go with VS Code, I reccommend installing the [C# Plugin](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) so you get support in your code editor for all of its fancy features.
 4. Reboot your computer.
+
+### Footnotes
+
+The C# extension in VS Code replicates the C# functionality you might see in VS Community (the most popular IDE for C# development), which includes a feature called CodeLens which can display things like the number of times your variable is referenced. If you're like me, you probably find this super annoying, so I was able to disable it by unchecking the setting: **Extensions > C# configuration > Csharp > Reference Code Lens**.
+
+If you need steps on how to do this:
+
+![Disabling CodeLens](https://i.imgur.com/wky43K8.png)
+
+1. Press `Ctrl + Comma` on your keyboard, then search for `codelens`.
+2. Under **Extensions**, click **C# configuration**.
+3. Find **Reference Code Lens** and uncheck it.
