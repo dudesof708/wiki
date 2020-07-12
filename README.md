@@ -12,6 +12,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Git Setup](software/git)
   * [MuseScore Setup](software/musescore)
 * [Glossary](glossary)
+* [Credits](credits)
 
 -----
 
