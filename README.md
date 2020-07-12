@@ -9,6 +9,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Unity Setup](software/unity)
     * [Resources to Learn Unity](software/learn)
   * [Git Setup](software/git)
+  * [MuseScore Setup](software/musescore)
 
 -----
 
