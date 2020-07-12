@@ -19,5 +19,6 @@ If you're an experienced developer, follow the quickstart. Otherwise, jump down 
 
 1. You'll need a text editor of your choice. I reccommend [VS Code](https://code.visualstudio.com/), as it has a lot of powerful features, like [linting](../../../glossary#l), [IntelliSense](../../../glossary#i), and more.
 2. Now you'll need a .NET Framework SDK. Download the [.NET Core SDK for VS Code](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code) or the [.NET Core SDK](https://dotnet.microsoft.com/download) if you chose another code editor.
+   ![.NET Installer](https://i.imgur.com/aYdqEhY.png)
 3. If you chose to go with VS Code, I reccommend installing the [C# Plugin](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) so you get support in your code editor for all of its fancy features.
 4. Reboot your computer.
