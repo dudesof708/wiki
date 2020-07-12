@@ -10,6 +10,8 @@
 
 * Dawn of the Rice Cooker
 * Rice, Ready!
+* Rice Simulator
+* Rice Eating Simulator
 
 ## Soundtrack
 
