@@ -6,6 +6,7 @@
 
 ## Subpages
 
+* [Developing in C#](code)
 * [Resources to Learn Unity](learn)
 
 -----

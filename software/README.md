@@ -7,6 +7,7 @@
 ## Subpages
 
 * [Unity Setup](unity)
+  * [Developing in C#](unity/code)
   * [Resources to Learn Unity](unity/learn)
 * [Git Setup](git)
 * [MuseScore Setup](musescore)
