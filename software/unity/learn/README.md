@@ -2,9 +2,7 @@
 
 -----
 
-[Back to homepage](../..) • [Unity setup guide](..)
-
-[Go to git setup guide](../commits)
+[Back to homepage](../../..) • [software resources guide](..) • [Unity setup guide](..)
 
 -----
 

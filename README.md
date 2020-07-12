@@ -5,10 +5,10 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
 ## Table of Contents
 
 * [Current Ideas](ideas)
-* Guides
-  * [Unity Setup Guide](unity)
-    * [Git Setup](unity/commits)
-    * [Resources to Learn Unity](unity/learn)
+* [Software Setup Guides](software)
+  * [Unity Setup](software/unity)
+    * [Resources to Learn Unity](software/learn)
+  * [Git Setup](software/git)
 
 -----
 

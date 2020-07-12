@@ -2,9 +2,11 @@
 
 -----
 
-[Back to homepage](..)
+[Back to homepage](../..) • [software resources guide](..)
 
-[Forward to guide on git](commits) • [Unity learning resources](learn)
+## Subpages
+
+* [Resources to Learn Unity](learn)
 
 -----
 
