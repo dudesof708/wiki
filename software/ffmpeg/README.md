@@ -20,6 +20,8 @@ We use `ffmpeg` to preprocess our videos. Jump to [Windows](#windows), [macOS](#
 6. Click **New**, and add the folder with `\bin` appended to the end of the original folder name you created. So if you unzipped it to `C:\ffmpeg`, add `C:\ffmpeg\bin`.
 7. Save and exit all dialog boxes, and reboot your computer.
 
+Then head to [preprocessing](#preprocessing).
+
 ## macOS
 
 You'll need a package manager, like [Homebrew](https://brew.sh/).
@@ -30,9 +32,13 @@ Now run:
 brew install ffmpeg
 ```
 
+Then head to [preprocessing](#preprocessing).
+
 ## Linux
 
 Linux users should be able to figure it out, the package is called `ffmpeg` in most major distributions. But if you really need a guide...
+
+Then head to [preprocessing](#preprocessing).
 
 ### Ubuntu or Debian
 
@@ -57,3 +63,17 @@ If you have RPM, simply run:
 ```bash
 sudo dnf install ffmpeg
 ```
+
+## Preprocessing
+
+Open a command window. Let's pretend your footage is named `video.mkv`. However, I want a compressed MP4 file. Here's how to do that:
+
+Navigate to the folder in your command window. In all operating systems, you can navigate down one folder by typing `cd <folder>` and navigate up one folder by typing `cd ..`.
+
+Now run:
+
+```bash
+ffmpeg -i video.mkv video.mp4
+```
+
+And send the corresponding video file over Google Drive.
