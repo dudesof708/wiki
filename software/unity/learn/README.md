@@ -12,6 +12,7 @@
   * In part 4.6, Karting Microgame: Smart Karts Training Guide, it is reccommended that you follow the text guide rather than the video guide. The video guide contains some inaccuracies and omits information that could help you create a trainable character.
   * I reccomend you skip part 4.12, Karting Microgame: Add a Ghost Driver. It is a video tutorial with no explanation included and overall an extremely unhelpful guide. Since the C# programming doesn't explain what the code does and the lady speaks so quickly that it is impossible, I've included the source code for `GhostManager.cs` in [Footnote 1](#footnote-1).
   * For part 4.18, Karting Microgame: Build Your Own Track, the project requires a plugin called **ProGrids**. This doesn't come installed by default, so see [Footnote 2](#footnote-2) on how to install it.
+* [How to make a 2D Platformer](https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c) *by Brackeys*
 
 ## Footnotes
 
