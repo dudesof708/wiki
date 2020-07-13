@@ -9,6 +9,7 @@
 > This is just how some of us learned how to use Unity. Your use case may be different.
 
 * [Getting Started with Unity](https://learn.unity.com/course/getting-started-with-unity) *by Unity Technologies*
+  * This guide is pretty helpful to learning where all the buttons in Unity are. You don't have to do the whole tutorial to get the hang of it, but I do reccomend skipping over the 3D projects and just doing the 2D project if you're interested in saving time. I did the whole thing.
   * In part 4.6, Karting Microgame: Smart Karts Training Guide, it is reccommended that you follow the text guide rather than the video guide. The video guide contains some inaccuracies and omits information that could help you create a trainable character.
   * I reccomend you skip part 4.12, Karting Microgame: Add a Ghost Driver. It is a video tutorial with no explanation included and overall an extremely unhelpful guide. Since the C# programming doesn't explain what the code does and the lady speaks so quickly that it is impossible, I've included the source code for `GhostManager.cs` in [Footnote 1](#footnote-1).
   * For part 4.18, Karting Microgame: Build Your Own Track, the project requires a plugin called **ProGrids**. This doesn't come installed by default, so see [Footnote 2](#footnote-2) on how to install it.
