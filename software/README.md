@@ -11,6 +11,7 @@
   * [Resources to Learn Unity](unity/learn)
 * [Git Setup](git)
 * [MuseScore Setup](musescore)
+* [ffmpeg Setup](ffmpeg)
 
 -----
 

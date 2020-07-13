@@ -33,7 +33,7 @@ Listed in no particular order, here's a list of famous OSTs that can also serve 
 * [Doom (2016)](https://www.youtube.com/playlist?list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR)
 * [Stardew Valley](https://www.youtube.com/playlist?list=PLKDOdCjxOjzIFucHobwJpSK4-vAVXST90)
 * [Undertale](https://www.youtube.com/playlist?list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg)
-* [Crypt of the Necrodancer](https://www.youtube.com/playlist?list=PLhFC8pd7oZvwJYhjmpZVyaKG7CUNoVvae)
+* [Crypt of the Necrodancer](https://www.youtube.com/playlist?list=PLhFC8pd7oZvwJYhjmpZVyaKG7CUNoVvae) ([Spotify](https://open.spotify.com/album/3nZQnXN0pPRe4QccJXHPS6))
 * [Faster Than Light](https://www.youtube.com/playlist?list=PL1bOcJQFjlBQg-AUmY4LOY_y5L7cIgczy)
 * [The Witcher 3: Wild Hunt](https://www.youtube.com/playlist?list=PL7kkhpBjx_7noHR3fWCgwQFg_xs3S0Vgf)
 * [The Legend of Zelda](https://www.youtube.com/playlist?list=PL71E19E7A8803384C)

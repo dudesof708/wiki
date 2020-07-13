@@ -11,6 +11,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
     * [Resources to Learn Unity](software/unity/learn)
   * [Git Setup](software/git)
   * [MuseScore Setup](software/musescore)
+  * [ffmpeg Setup](software/ffmpeg)
 * [Glossary](glossary)
 * [Credits](credits)
 
