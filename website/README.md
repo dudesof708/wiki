@@ -30,6 +30,8 @@ We use **HTML, Javascript, and CSS** to host a static page of our website. It is
 
 ### GitHub Desktop
 
+![Desktop](https://i.imgur.com/CLFORNd.png)
+
 If you are using GitHub Desktop, you need to switch from the **`master`** branch to the **`gh-pages`** branch, so select **Current Branch** on the top of the window and select `gh-pages` to switch to it. You should immediately see all the website files show up in the project folder.
 
 ### Command Line
