@@ -26,4 +26,4 @@ The **Dudes of 708** are just a bunch of cool guys doing cool things. Check us o
 
 ## Getting Started
 
-If you're just getting started, start with the [Unity setup guide](unity), then [learn about git](unity/commits), then (if you have time) learn a little bit [about Unity](unity/learn).
+If you're just getting started, start with the [Unity setup guide](unity), then [learn about git](unity/commits), then (if you have time) learn a little bit [about Unity](unity/learn). For all images that are hard to view, you can right-click them and click *Open image in new tab* to see a full-size version.
