@@ -12,6 +12,8 @@
 * Rice, Ready!
 * Rice Simulator
 * Rice Eating Simulator
+* Leo Ultimate
+* Leo's Story
 
 ## Soundtrack
 
