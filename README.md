@@ -13,6 +13,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [MuseScore Setup](software/musescore)
   * [ffmpeg Setup](software/ffmpeg)
 * [Website Development Guide](website)
+* [Cloud Computing](hosting)
 * [YouTube Reference](youtube)
   * [Wikipedia Speedrunning](youtube/wikipedia)
 * [Glossary](glossary)

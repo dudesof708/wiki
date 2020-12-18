@@ -1,0 +1,64 @@
+# Hosting Options
+
+-----
+
+[Back to homepage](..)
+
+-----
+
+All of these are sorted by **best**, so I don't see why you would pick anything other than the top one in each bracket.
+
+## Price Points
+
+* [Free](#Free)
+* [$2/month](#$2/mo)
+* [$5/month](#$5/mo)
+* [Other Resources](#Other-Resources)
+
+## Free
+
+| Host                                               | CPU | RAM    | Disk   | Disk Type | Bandwidth |
+|----------------------------------------------------|-----|--------|--------|-----------|-----------|
+| [Oracle Cloud](https://www.oracle.com/cloud/free/) | 1   | 1 GB   | 100 GB | SSD       | Unlimited |
+| [Google Cloud](https://cloud.google.com/free)      | 1   | 600 MB | 30 GB  | SSD       | Unlimited |
+
+## $2/mo
+
+| Host                                                         | Price   | CPU | RAM    | Disk  | Disk Type | Bandwidth |
+|--------------------------------------------------------------|---------|-----|--------|-------|-----------|-----------|
+| [Scaleway](https://www.scaleway.com/en/pricing/)             | €1.8/mo | 1   | 1 GB   | 10 GB | SSD       | Unlimited |
+| [Dedipath](https://dedipath.com/)                            | $20/yr  | 1   | 512 MB | 10 GB | SSD       | Unlimited |
+| [LetBox](https://letbox.com/page/box)                        | $15/yr  | 1   | 512 MB | 11 GB | NVMe      | 2 TB      |
+| [RackNerd](https://racknerd.com/)                            | $23/yr  | 1   | 512 MB | 30 GB | SSD       | 500 GB    |
+| [SkySilk](https://www.skysilk.com/)                          | $2/mo   | 1   | 512 MB | 10 GB | SSD       | 500 GB    |
+| [Virmach](https://virmach.com/best-cheapest-linux-vps/)      | $2/mo   | 1   | 512 MB | 15 GB | HDD       | 500 GB    |
+| [Host Namaste](https://www.hostnamaste.com/)                 | $20/yr  | 1   | 256 MB | 10 GB | HDD       | 250 GB    |
+| [HostSailor](https://hostsailor.com/vps-hosting/openvz-vps/) | $2/mo   | 1   | 256 MB | 15 GB | HDD       | 256 GB    |
+| [Hudson Valley Host](https://hudsonvalleyhost.com/)          | $15/yr  | 1   | 128 MB | 15 GB | HDD       | 200 GB    |
+
+## $5/mo
+
+| Host                                                                   | Price    | CPU  | RAM    | Disk   | Disk Type | Bandwidth |
+|------------------------------------------------------------------------|----------|------|--------|--------|-----------|-----------|
+| [Google Cloud](https://cloud.google.com/)                              | $47/yr   | 1    | 1 GB   | 30 GB  | SSD       | Unlimited |
+| [Contabo](https://contabo.com/?show=vps)                               | €3.99/mo | 2    | 4 GB   | 300 GB | Hybrid    | Unlimited |
+| [GalaxyGate](https://galaxygate.net/hosting/vps/)                      | $5/mo    | 1    | 2 GB   | 20 GB  | NVMe      | Unlimited |
+| [Time4VPS](https://www.time4vps.com/linux-vps/)                        | €3.99/mo | 1    | 2 GB   | 20 GB  | HDD       | 2 TB      |
+| [SkySilk](https://www.skysilk.com/)                                    | $5/mo    | 1    | 2 GB   | 30 GB  | SSD       | 1 TB      |
+| [Dedipath](https://dedipath.com/ssd-vps)                               | $3.50/mo | 2    | 1 GB   | 30 GB  | SSD       | Unlimited |
+| [Linode](https://www.linode.com/)                                      | $5/mo    | 1    | 1 GB   | 25 GB  | SSD       | Unlimited |
+| [AWS](https://aws.amazon.com/savingsplans/pricing/)                    | $60/yr   | 2    | 1 GB   | 10 GB  | SSD       | Unlimited |
+| [DigitalOcean](https://www.digitalocean.com/)                          | $5/mo    | 1    | 1 GB   | 25 GB  | SSD       | 1 TB      |
+| [LetBox](https://letbox.com/page/box)                                  | $3.50/mo | 1    | 1 GB   | 20 GB  | NVMe      | 4 TB      |
+| [Vultr](https://www.vultr.com/)                                        | $5/mo    | 1    | 1 GB   | 25 GB  | SSD       | 1 TB      |
+| [HostPls](https://host-pls.com/)                                       | $3.49/mo | 2    | 1 GB   | 15 GB  | SSD       | 200 GB    |
+| [RamNode](https://www.ramnode.com/)                                    | 1        | 1 GB | 35 GB  | SSD    | 2 TB      |           |
+| [Host Namaste](https://www.hostnamaste.com/openvz-vps.php)             | $4.99/mo | 1    | 1 GB   | 30 GB  | HDD       | 2 TB      |
+| [ExtraVM](https://extravm.com/vps.php)                                 | $5/mo    | 1    | 1 GB   | 15 GB  | SSD       | 2 TB      |
+| [FlipperHost](https://flipperhost.com/)                                | $4.95/mo | 4    | 512 MB | 50 GB  | HDD       | 3 TB      |
+| [HostSailor](https://hostsailor.com/vps-hosting/)                      | $3.99/mo | 2    | 512 MB | 15 GB  | HDD       | 512 GB    |
+| [Hudson Valley Host](https://hudsonvalleyhost.com/self-managed-vps-2/) | $5/mo    | 1    | 512 MB | 50 GB  | HDD       | 1 TB      |
+
+## Other Resources
+
+* [Low End Box](https://lowendbox.com/)

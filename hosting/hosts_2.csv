@@ -1,0 +1,10 @@
+Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[Scaleway](https://www.scaleway.com/en/pricing/),€1.8/mo,1,1 GB,10 GB,SSD,Unlimited
+[Dedipath](https://dedipath.com/),$20/yr,1,512 MB,10 GB,SSD,Unlimited
+[LetBox](https://letbox.com/page/box),$15/yr,1,512 MB,11 GB,NVMe,2 TB
+[RackNerd](https://racknerd.com/),$23/yr,1,512 MB,30 GB,SSD,500 GB
+[SkySilk](https://www.skysilk.com/),$2/mo,1,512 MB,10 GB,SSD,500 GB
+[Virmach](https://virmach.com/best-cheapest-linux-vps/),$2/mo,1,512 MB,15 GB,HDD,500 GB
+[Host Namaste](https://www.hostnamaste.com/),$20/yr,1,256 MB,10 GB,HDD,250 GB
+[HostSailor](https://hostsailor.com/vps-hosting/openvz-vps/),$2/mo,1,256 MB,15 GB,HDD,256 GB
+[Hudson Valley Host](https://hudsonvalleyhost.com/),$15/yr,1,128 MB,15 GB,HDD,200 GB
