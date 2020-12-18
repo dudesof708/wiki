@@ -1,0 +1,13 @@
+Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[Contabo](https://contabo.com/?show=vps),€8.99/mo,6,16 GB,400 GB,SSD,Unlimited
+[Time4VPS](https://www.time4vps.com/linux-vps/),€9.99/mo,2,8 GB,80 GB,HDD,8 TB
+[FlipperHost](https://flipperhost.com/openvz-vps.php),$13.95/mo,4,4 GB,150 GB,HDD,12 TB
+[Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/),$15/mo,4,4 GB,60 GB,SSD,Unlimited
+[Dedipath](https://dedipath.com/ssd-vps),$12.50/mo,3,4 GB,120 GB,SSD,Unlimited
+[ExtraVM](https://extravm.com/vps.php),$15/mo,2,3 GB,45 GB,SSD,4 TB
+[RamNode](https://www.ramnode.com/),$15/mo,2,3 GB,75 GB,SSD,3.5 TB
+[Host Pls](https://host-pls.com/cart.php?gid=1),$12.99/mo,3,4 GB,50 GB,SSD,400 GB
+[DigitalOcean](https://www.digitalocean.com/pricing/),$15/mo,2,2 GB,60 GB,SSD,3 TB
+[AWS](https://aws.amazon.com/savingsplans/pricing/),$161/yr,1,2 GB,30 GB,SSD,Unlimited
+[Hudson Valley Host](https://hudsonvalleyhost.com/self-managed-vps-2/),$11/mo,1,2 GB,150 GB,HDD,3 TB
+[Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/cloud-services/),$14.60/mo,1,750 MB,20 GB,HDD,Unlimited

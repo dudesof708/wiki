@@ -1,0 +1,22 @@
+Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[Contabo](https://contabo.com/?show=vps),€26.99/mo,10,60 GB,1.6 TB,SSD,Unlimited
+[Time4VPS](https://www.time4vps.com/linux-vps/),€39.99/mo,6,24 GB,240 GB,HDD,24 TB
+[Dedipath](https://dedipath.com/ssd-vps),$48.50/mo,8,16 GB,300 GB,SSD,Unlimited
+[GalaxyGate](https://galaxygate.net/hosting/vps/),$40/mo,6,16 GB,75 GB,NVMe,Unlimited
+[ExtraVM](https://extravm.com/vps.php),$50/mo,6,10 GB,150 GB,SSD,10 TB
+[RackNerd](https://racknerd.com/kvm-vps),$36.59/mo,6,8 GB,220 GB,Hybrid,5 TB
+[Scaleway](https://www.scaleway.com/en/pricing/),€28.80/mo,4,8 GB,80 GB,NVMe,Unlimited
+[Linode](https://www.linode.com/pricing/),$40/mo,4,8 GB,160 GB,SSD,5 TB
+[Oracle Cloud](https://www.oracle.com/cloud/cost-estimator.html),$47/mo,1,15 GB,1 TB,SSD,Unlimited
+[SkySilk](https://www.skysilk.com/cloud),$40/mo,4,12 GB,200 GB,SSD,4 TB
+[Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/),$39/mo,8,8 GB,120 GB,SSD,Unlmited
+[Host Namaste](https://www.hostnamaste.com/openvz-vps.php),$29.99/mo,6,8 GB,200 GB,HDD,5 TB
+[Virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/),$40/mo,4,8 GB,100 GB,SSD,6 TB
+[DigitalOcean](https://www.digitalocean.com/pricing/),$40/mo,4,8 GB,160 GB,SSD,5 TB
+[RamNode](https://www.ramnode.com/),$40/mo,4,8 GB,180 GB,SSD,5 TB
+[Vultr](https://www.vultr.com/products/cloud-compute/),$40/mo,4,8 GB,160 GB,SSD,4 TB
+[Google Cloud](https://cloud.google.com/),$370/yr,2,8 GB,60 GB,SSD,Unlimited
+[AWS](https://aws.amazon.com/),$580/yr,2,8 GB,60 GB,SSD,Unlimited
+[HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/),$29.99/mo,4,4 GB,60 GB,SSD,4 TB
+[FlipperHost](https://flipperhost.com/managed-vps.php),$49.99/mo,4,4 GB,100 GB,HDD,Unlimited
+[Hudson Valley Host](https://hudsonvalleyhost.com/self-managed-linux-kvm-vps/),$40/mo,1,4 GB,60 GB,HDD,7 TB

@@ -1,0 +1,8 @@
+Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[Dedipath](https://dedipath.com/ssd-vps),$24.50/mo,6,8 GB,240 GB,Unlimited
+[ExtraVM](https://extravm.com/vps.php),$25/mo,4,5 GB,75 GB,SSD,6 TB
+[Oracle](https://www.oracle.com/cloud/compute/pricing.html),$21.60/mo,1,8 GB,1 TB,SSD,Unlimited
+[FlipperHost](https://flipperhost.com/kvm-vps.php),$24.95/mo,4,4 GB,100 GB,HDD,15 TB
+[RackNerd](https://racknerd.com/kvm-vps),$24.59/mo,4,4 GB,130 GB,Hybrid,3 TB
+[AWS](https://aws.amazon.com/savingsplans/pricing/),$299/yr,2,4 GB,60 GB,SSD,Unlimited
+[SkySilk](https://www.skysilk.com/cloud),$22/mo,1,4 GB,60 GB,NVMe,Unlimited

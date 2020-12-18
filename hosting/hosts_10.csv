@@ -2,9 +2,9 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [Contabo](https://contabo.com/?show=vps),€7.99/mo,4,10 GB,700 GB,Hybrid,Unlimited
 [Google Cloud](https://cloud.google.com/),$93/yr,2,8 GB,30 GB,SSD,Unlimited
 [GalaxyGate](https://galaxygate.net/hosting/vps/),$10/mo,2,4 GB,30 GB,NVMe,Unlimited
-[Time4VPS](https://www.time4vps.com/linux-vps/),€5.99/month,1,4 GB,40 GB,HDD,4 TB
+[Time4VPS](https://www.time4vps.com/linux-vps/),€5.99/mo,1,4 GB,40 GB,HDD,4 TB
 [Dedipath](https://dedipath.com/ssd-vps),$9.50/mo,2,3 GB,90 GB,SSD,Unlimited
-[Scaleway](https://www.scaleway.com/en),€7.20/month,2,2 GB,20 GB,NVMe,Unlimited
+[Scaleway](https://www.scaleway.com/en),€7.20/mo,2,2 GB,20 GB,NVMe,Unlimited
 [DigitalOcean](https://www.digitalocean.com/pricing/),$10/mo,1,2 GB,50 GB,SSD,2 TB
 [AWS](https://aws.amazon.com/savingsplans/pricing/),$120/yr,2,2 GB,10 GB,SSD,Unlimited
 [Letbox](https://my.letbox.com/index.php?rp=/store/la-nvme-bbox),$10/mo,2,3 GB,40 GB,NVMe,8 TB
