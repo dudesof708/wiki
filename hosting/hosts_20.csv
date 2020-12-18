@@ -1,12 +1,16 @@
 Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [Contabo](https://contabo.com/?show=vps),€12.99/mo,6,20 GB,1.4 TB,Hybrid,Unlimited
 [LetBox](https://my.letbox.com/index.php?rp=/store/la-nvme-bbox),$20/mo,4,8 GB,50 GB,NVMe,8 TB
+[NexusBytes](https://my.nexusbytes.com/cart.php?gid=23),$20,4,8 GB,80 GB,SSD,8 TB
+[Cheap Windows VPS](http://cheapwindowsvps.com/),$17/mo,3,8 GB,120 GB,SSD,Unlimited
+[Hostigger](https://www.hostigger.com/vps),$20/mo,3,8 GB,100 GB,SSD,10 TB
 [SkySilk](https://www.skysilk.com/cloud/),$20/mo,2,8 GB,100 GB,SSD,3 TB
 [Google Cloud](https://cloud.google.com/),$185/yr,2,8 GB,50 GB,SSD,Unlimited
 [Dedipath](https://dedipath.com/ssd-vps),$18.50/mo,4,6 GB,180 GB,SSD,Unlmited
 [GalaxyGate](https://galaxygate.net/hosting/vps/),$20/mo,3,8 GB,50 GB,NVMe,Unlimited
 [RamNode](https://www.ramnode.com/),$20/mo,4,4 GB,100 GB,SSD,4 TB
 [ExtraVM](https://extravm.com/vps.php),$20/mo,4,4 GB,60 GB,SSD,5 TB
+[Hostinger](https://www.hostinger.com/vps-hosting),$15.95/mo,4,4 GB,80 GB,SSD,4 TB
 [HostNamaste](https://www.hostnamaste.com/openvz-vps.php),$19.99/mo,4,4 GB,150 GB,HDD,5 TB
 [Scaleway](https://www.scaleway.com/en/pricing/),€14.4/mo,3,4 GB,40 GB,NVMe,Unlimited
 [Virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/),$20/mo,3,4 GB,75 GB,HDD,4 TB
@@ -14,7 +18,14 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [DigitalOcean](https://www.digitalocean.com/pricing/),$20/mo,2,4 GB,80 GB,SSD,4 TB
 [AWS](https://aws.amazon.com/savingsplans/pricing/),$235/yr,2,4 GB,30 GB,SSD,Unlimited
 [Vultr](https://www.vultr.com/products/cloud-compute/),$20/mo,2,4 GB,80 GB,SSD,3 TB
+[Ideastack](https://ideastack.com/),$15.73/mo,2,4 GB,100 GB,SSD,2 TB
+[StockVPS](https://stockvps.com/),$16.67/mo,2,4 GB,80 GB,HDD,4 TB
 [FlipperHost](https://flipperhost.com/kvm-vps.php),$19.95/mo,3,3 GB,80 GB,HDD,9 TB
 [HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/),$15.99/mo,3,2 GB,40 GB,SSD,2 TB
 [Hudson Valley Host](https://hudsonvalleyhost.com/self-managed-vps-2/),$20/mo,1,4 GB,300 GB,HDD,5 TB
+[CreeperHost](https://www.creeperhost.net/services),$19.03/mo,3,2.5 GB,25 GB,SSD,Unlimited
+[AcroServers](https://acroservers.com/vps_cloud),€15/mo,2,2 GB,40 GB,SSD,2 TB
+[SimpleNode](https://simplenode.co/),$20/mo,2,2 GB,50 GB,HDD,1 TB
+[PakCloudHost](https://www.pakcloudhost.com/vps-hosting/),$20/mo,2,2 GB,40 GB,HDD,2 TB
+[Catalyst](https://catalysthost.com/kvm/),$20/mo,1,2 GB,100 GB,HDD,20 TB
 [RackNerd](https://racknerd.com/kvm-vps),$17.99/mo,2,1 GB,50 GB,SSD,Unlimited

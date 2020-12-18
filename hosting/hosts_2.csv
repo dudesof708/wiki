@@ -1,5 +1,7 @@
 Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[HostMem](https://www.hostmem.com/product/server/cloud),$10/yr,1,1 GB,60 GB,HDD,Unlimited
 [Scaleway](https://www.scaleway.com/en/pricing/),€1.8/mo,1,1 GB,10 GB,SSD,Unlimited
+[Hostodo](https://hostodo.com/ssd-kvm),$14.99/yr,1,512 MB,20 GB,SSD,3 TB
 [Dedipath](https://dedipath.com/),$20/yr,1,512 MB,10 GB,SSD,Unlimited
 [LetBox](https://letbox.com/page/box),$15/yr,1,512 MB,11 GB,NVMe,2 TB
 [RackNerd](https://racknerd.com/),$23/yr,1,512 MB,30 GB,SSD,500 GB
