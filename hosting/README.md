@@ -16,6 +16,11 @@ If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech]
 * [$2/month](#2mo)
 * [$5/month](#5mo)
 * [$10/month](#10mo)
+* [$15/month](#15mo)
+* [$20/month](#20mo)
+* [$25/month](#25mo)
+* [$50/month](#50mo)
+* [$100/month](#100mo) (*But why though...*)
 * [Other Resources](#Other-Resources)
 
 ## Free
