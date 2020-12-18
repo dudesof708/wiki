@@ -10,6 +10,8 @@ All of these are sorted by **best**, so I don't see why you would pick anything 
 
 If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech](mailto:sponsors@7o8.tech). This wiki is used publicly by the Dudes of 708.
 
+**Additionally, please note that it's probably cheaper to host your project on a Raspberry Pi.**
+
 ## Price Points
 
 * [Free](#Free)
@@ -176,7 +178,27 @@ If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech]
 
 At this point, you're either using GPU instances or you've got to be crazy to not be using load balancing. Rewrite your app!
 
-Coming soon.
+| Host                                                             | Price     | CPU | RAM     | Disk   | Disk Type | Bandwidth |
+|------------------------------------------------------------------|-----------|-----|---------|--------|-----------|-----------|
+| [Contabo](https://contabo.com/?show=vds)                         | €68.99/mo | 6   | 48 GB   | 360 GB | NVMe      | Unlimited |
+| [GalaxyGate](https://galaxygate.net/hosting/vps/)                | $80/mo    | 8   | 32 GB   | 100 GB | NVMe      | Unlimited |
+| [Time4VPS](https://www.time4vps.com/linux-vps/)                  | €65.99/mo | 8   | 32 GB   | 320 GB | HDD       | 32 TB     |
+| [SkySilk](https://www.skysilk.com/cloud/)                        | $75/mo    | 6   | 24 GB   | 400 GB | SSD       | 5 TB      |
+| [DigitalOcean](https://www.digitalocean.com/pricing/)            | $80/mo    | 8   | 16 GB   | 320 GB | SSD       | 6 TB      |
+| [Dedipath](https://dedipath.com/ssd-kvm-vps)                     | $65.50/mo | 8   | 16 GB   | 100 SD | SSD       | Unlimited |
+| [Linode](https://www.linode.com/pricing/)                        | $80/mo    | 6   | 16 GB   | 320 GB | SSD       | 8 TB      |
+| [Virmach](https://virmach.com/10gbps-linux-windows-cloud-vps/)   | $80/mo    | 6   | 16 GB   | 250 GB | SSD       | 8 TB      |
+| [Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/)    | $60/mo    | 8   | 12 GB   | 200 GB | SSD       | Unlimited |
+| [Oracle Cloud](https://www.oracle.com/cloud/cost-estimator.html) | $95/mo    | 2   | 30 GB   | 1 TB   | SSD       | Unlimited |
+| [Vultr](https://www.vultr.com/products/cloud-compute/)           | $80/mo    | 6   | 16 GB   | 320 GB | SSD       | 5 TB      |
+| [RamNode](https://www.ramnode.com/)                              | $96/mo    | 4   | 16 GB   | 500 GB | NVMe      | 6 TB      |
+| [Scaleway](https://www.scaleway.com/en/pricing/)                 | €60.48/mo | 4   | 16 GB   | 160 GB | NVMe      | Unlimited |
+| [RackNerd](https://racknerd.com/kvm-vps)                         | $55.99/mo | 7   | 12 GB   | 300 GB | Hybrid    | 6 TB      |
+| [HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/) | $56.99/mo | 4   | 8 GB    | 80 GB  | SSD       | 8 TB      |
+| [Google Cloud](https://cloud.google.com/)                        | $740/yr   | 2   | 8 GB    | 60 GB  | SSD       | Unlimited |
+| [AWS](https://aws.amazon.com/ec2/instance-types/t2/)             | $1159/yr  | 2   | 8 GB    | 60 GB  | SSD       | Unlimited |
+| [OVH](https://www.ovhcloud.com/en/public-cloud/prices/)          | $54/mo    | 2   | 7 GB    | 50 GB  | SSD       | Unlimited |
+| [Microsoft Azure](https://azure.microsoft.com/)                  | $58.40/mo | 1   | 1.75 GB | 225 GB | SSD       | Unlimited |
 
 ## Other Resources
 
