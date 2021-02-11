@@ -18,7 +18,7 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [RamNode](https://www.ramnode.com/),$96/mo,4,16 GB,500 GB,NVMe,6 TB
 [Scaleway](https://www.scaleway.com/en/pricing/),€60.48/mo,4,16 GB,160 GB,NVMe,Unlimited
 [Hostigger](https://www.hostigger.com/1gbps-unlimited),$100/mo,4,16 GB,100 GB,SSD,Unlimited
-[CreeperHost](https://www.creeperhost.net/services),8,12 GB,100 GB,SSD,Unlimited
+[CreeperHost](https://www.creeperhost.net/services),$75.78/mo,8,12 GB,100 GB,SSD,Unlimited
 [RackNerd](https://racknerd.com/kvm-vps),$55.99/mo,7,12 GB,300 GB,Hybrid,6 TB
 [KnownHost](https://www.knownhost.com/managed-vps.html),$80.50/mo,6,8 GB,200 GB,SSD,5 TB
 [HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/),$56.99/mo,4,8 GB,80 GB,SSD,8 TB

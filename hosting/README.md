@@ -27,12 +27,13 @@ If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech]
 
 ## Free
 
-| Host                                                      | CPU | RAM    | Disk   | Disk Type | Bandwidth |
-|-----------------------------------------------------------|-----|--------|--------|-----------|-----------|
-| [Evolution Host](https://evolution-host.com/free-vps.php) | 8   | 16 GB  | 20 GB  | SSD       | 1 TB      |
-| [FreeMach](https://freemach.rowe.sh/)                     | 2   | 3 GB   | 120 GB | HDD       | 1 TB      |
-| [Oracle Cloud](https://www.oracle.com/cloud/free/)        | 1   | 1 GB   | 100 GB | SSD       | Unlimited |
-| [Google Cloud](https://cloud.google.com/free)             | 1   | 600 MB | 30 GB  | SSD       | Unlimited |
+| Host                                                                                            | CPU | RAM    | Disk   | Disk Type | Bandwidth |
+|-------------------------------------------------------------------------------------------------|-----|--------|--------|-----------|-----------|
+| [Evolution Host](https://evolution-host.com/free-vps.php)                                       | 8   | 16 GB  | 20 GB  | SSD       | 1 TB      |
+| [FreeMach](https://freemach.rowe.sh/)                                                           | 2   | 3 GB   | 120 GB | HDD       | 1 TB      |
+| [Oracle Cloud](https://www.oracle.com/cloud/free/)                                              | 1   | 1 GB   | 100 GB | SSD       | Unlimited |
+| [Google Cloud](https://cloud.google.com/free)                                                   | 1   | 600 MB | 30 GB  | SSD       | Unlimited |
+| [NanoKVM](https://talk.lowendspirit.com/discussion/129/nanokvm-free-nat-kvm-multiple-locations) | 1   | 256 MB | 10 GB  | NVMe      | Unlimited |
 
 ## $2/mo
 
@@ -260,37 +261,37 @@ If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech]
 
 At this point, you're either using GPU instances or you've got to be crazy to not be using load balancing. Rewrite your app!
 
-| Host                                                             | Price     | CPU   | RAM     | Disk   | Disk Type | Bandwidth |
-|------------------------------------------------------------------|-----------|-------|---------|--------|-----------|-----------|
-| [Contabo](https://contabo.com/?show=vds)                         | €68.99/mo | 6     | 48 GB   | 360 GB | NVMe      | Unlimited |
-| [GalaxyGate](https://galaxygate.net/hosting/vps/)                | $80/mo    | 8     | 32 GB   | 100 GB | NVMe      | Unlimited |
-| [Time4VPS](https://www.time4vps.com/linux-vps/)                  | €65.99/mo | 8     | 32 GB   | 320 GB | HDD       | 32 TB     |
-| [Ideastack](https://ideastack.com/)                              | $84/mo    | 8     | 32 GB   | 250 GB | SSD       | 2 TB      |
-| [SoftShellWeb](https://softshellweb.com/vps-hosting-usa)         | $98/mo    | 6     | 32 GB   | 480 GB | SSD       | Unlimited |
-| [Cheap Windows VPS](http://cheapwindowsvps.com/)                 | $62/mo    | 5     | 32 GB   | 480 GB | SSD       | Unlimited |
-| [SkySilk](https://www.skysilk.com/cloud/)                        | $75/mo    | 6     | 24 GB   | 400 GB | SSD       | 5 TB      |
-| [DigitalOcean](https://www.digitalocean.com/pricing/)            | $80/mo    | 8     | 16 GB   | 320 GB | SSD       | 6 TB      |
-| [Dedipath](https://dedipath.com/ssd-kvm-vps)                     | $65.50/mo | 8     | 16 GB   | 100 SD | SSD       | Unlimited |
-| [GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php)    | $96/mo    | 8     | 16 GB   | 160 GB | SSD       | 16 TB     |
-| [TheStack](https://thestack.net/hybrid-servers)                  | $60/mo    | 8     | 16 GB   | 240 GB | HDD       | 10 TB     |
-| [Linode](https://www.linode.com/pricing/)                        | $80/mo    | 6     | 16 GB   | 320 GB | SSD       | 8 TB      |
-| [Virmach](https://virmach.com/10gbps-linux-windows-cloud-vps/)   | $80/mo    | 6     | 16 GB   | 250 GB | SSD       | 8 TB      |
-| [Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/)    | $60/mo    | 8     | 12 GB   | 200 GB | SSD       | Unlimited |
-| [Oracle Cloud](https://www.oracle.com/cloud/cost-estimator.html) | $95/mo    | 2     | 30 GB   | 1 TB   | SSD       | Unlimited |
-| [Vultr](https://www.vultr.com/products/cloud-compute/)           | $80/mo    | 6     | 16 GB   | 320 GB | SSD       | 5 TB      |
-| [RamNode](https://www.ramnode.com/)                              | $96/mo    | 4     | 16 GB   | 500 GB | NVMe      | 6 TB      |
-| [Scaleway](https://www.scaleway.com/en/pricing/)                 | €60.48/mo | 4     | 16 GB   | 160 GB | NVMe      | Unlimited |
-| [Hostigger](https://www.hostigger.com/1gbps-unlimited)           | $100/mo   | 4     | 16 GB   | 100 GB | SSD       | Unlimited |
-| [CreeperHost](https://www.creeperhost.net/services)              | 8         | 12 GB | 100 GB  | SSD    | Unlimited |           |
-| [RackNerd](https://racknerd.com/kvm-vps)                         | $55.99/mo | 7     | 12 GB   | 300 GB | Hybrid    | 6 TB      |
-| [KnownHost](https://www.knownhost.com/managed-vps.html)          | $80.50/mo | 6     | 8 GB    | 200 GB | SSD       | 5 TB      |
-| [HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/) | $56.99/mo | 4     | 8 GB    | 80 GB  | SSD       | 8 TB      |
-| [Comet](https://www.cometvps.com/)                               | $73/mo    | 4     | 8 GB    | 80 GB  | SSD       | 8 TB      |
-| [PakCloudHost](https://www.pakcloudhost.com/vps-hosting/)        | $77/mo    | 4     | 8 GB    | 160 GB | HDD       | 4 TB      |
-| [Google Cloud](https://cloud.google.com/)                        | $740/yr   | 2     | 8 GB    | 60 GB  | SSD       | Unlimited |
-| [AWS](https://aws.amazon.com/ec2/instance-types/t2/)             | $1159/yr  | 2     | 8 GB    | 60 GB  | SSD       | Unlimited |
-| [OVH](https://www.ovhcloud.com/en/public-cloud/prices/)          | $54/mo    | 2     | 7 GB    | 50 GB  | SSD       | Unlimited |
-| [Microsoft Azure](https://azure.microsoft.com/)                  | $58.40/mo | 1     | 1.75 GB | 225 GB | SSD       | Unlimited |
+| Host                                                             | Price     | CPU | RAM     | Disk   | Disk Type | Bandwidth |
+|------------------------------------------------------------------|-----------|-----|---------|--------|-----------|-----------|
+| [Contabo](https://contabo.com/?show=vds)                         | €68.99/mo | 6   | 48 GB   | 360 GB | NVMe      | Unlimited |
+| [GalaxyGate](https://galaxygate.net/hosting/vps/)                | $80/mo    | 8   | 32 GB   | 100 GB | NVMe      | Unlimited |
+| [Time4VPS](https://www.time4vps.com/linux-vps/)                  | €65.99/mo | 8   | 32 GB   | 320 GB | HDD       | 32 TB     |
+| [Ideastack](https://ideastack.com/)                              | $84/mo    | 8   | 32 GB   | 250 GB | SSD       | 2 TB      |
+| [SoftShellWeb](https://softshellweb.com/vps-hosting-usa)         | $98/mo    | 6   | 32 GB   | 480 GB | SSD       | Unlimited |
+| [Cheap Windows VPS](http://cheapwindowsvps.com/)                 | $62/mo    | 5   | 32 GB   | 480 GB | SSD       | Unlimited |
+| [SkySilk](https://www.skysilk.com/cloud/)                        | $75/mo    | 6   | 24 GB   | 400 GB | SSD       | 5 TB      |
+| [DigitalOcean](https://www.digitalocean.com/pricing/)            | $80/mo    | 8   | 16 GB   | 320 GB | SSD       | 6 TB      |
+| [Dedipath](https://dedipath.com/ssd-kvm-vps)                     | $65.50/mo | 8   | 16 GB   | 100 SD | SSD       | Unlimited |
+| [GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php)    | $96/mo    | 8   | 16 GB   | 160 GB | SSD       | 16 TB     |
+| [TheStack](https://thestack.net/hybrid-servers)                  | $60/mo    | 8   | 16 GB   | 240 GB | HDD       | 10 TB     |
+| [Linode](https://www.linode.com/pricing/)                        | $80/mo    | 6   | 16 GB   | 320 GB | SSD       | 8 TB      |
+| [Virmach](https://virmach.com/10gbps-linux-windows-cloud-vps/)   | $80/mo    | 6   | 16 GB   | 250 GB | SSD       | 8 TB      |
+| [Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/)    | $60/mo    | 8   | 12 GB   | 200 GB | SSD       | Unlimited |
+| [Oracle Cloud](https://www.oracle.com/cloud/cost-estimator.html) | $95/mo    | 2   | 30 GB   | 1 TB   | SSD       | Unlimited |
+| [Vultr](https://www.vultr.com/products/cloud-compute/)           | $80/mo    | 6   | 16 GB   | 320 GB | SSD       | 5 TB      |
+| [RamNode](https://www.ramnode.com/)                              | $96/mo    | 4   | 16 GB   | 500 GB | NVMe      | 6 TB      |
+| [Scaleway](https://www.scaleway.com/en/pricing/)                 | €60.48/mo | 4   | 16 GB   | 160 GB | NVMe      | Unlimited |
+| [Hostigger](https://www.hostigger.com/1gbps-unlimited)           | $100/mo   | 4   | 16 GB   | 100 GB | SSD       | Unlimited |
+| [CreeperHost](https://www.creeperhost.net/services)              | $75.78/mo | 8   | 12 GB   | 100 GB | SSD       | Unlimited |
+| [RackNerd](https://racknerd.com/kvm-vps)                         | $55.99/mo | 7   | 12 GB   | 300 GB | Hybrid    | 6 TB      |
+| [KnownHost](https://www.knownhost.com/managed-vps.html)          | $80.50/mo | 6   | 8 GB    | 200 GB | SSD       | 5 TB      |
+| [HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/) | $56.99/mo | 4   | 8 GB    | 80 GB  | SSD       | 8 TB      |
+| [Comet](https://www.cometvps.com/)                               | $73/mo    | 4   | 8 GB    | 80 GB  | SSD       | 8 TB      |
+| [PakCloudHost](https://www.pakcloudhost.com/vps-hosting/)        | $77/mo    | 4   | 8 GB    | 160 GB | HDD       | 4 TB      |
+| [Google Cloud](https://cloud.google.com/)                        | $740/yr   | 2   | 8 GB    | 60 GB  | SSD       | Unlimited |
+| [AWS](https://aws.amazon.com/ec2/instance-types/t2/)             | $1159/yr  | 2   | 8 GB    | 60 GB  | SSD       | Unlimited |
+| [OVH](https://www.ovhcloud.com/en/public-cloud/prices/)          | $54/mo    | 2   | 7 GB    | 50 GB  | SSD       | Unlimited |
+| [Microsoft Azure](https://azure.microsoft.com/)                  | $58.40/mo | 1   | 1.75 GB | 225 GB | SSD       | Unlimited |
 
 ## Other Resources
 
