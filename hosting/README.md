@@ -23,7 +23,8 @@ If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech]
 * [$25/month](#25mo)
 * [$50/month](#50mo)
 * [$100/month](#100mo) (*But why though...*)
-* [Other Resources](#Other-Resources)
+* [Other Resources](#other-resources)
+  * [Managed Hosting](#managed-hosting)
 
 ## Free
 
@@ -295,4 +296,36 @@ At this point, you're either using GPU instances or you've got to be crazy to no
 
 ## Other Resources
 
-* [Low End Box](https://lowendbox.com/)
+* [LowEndBox](https://lowendbox.com/)
+  * [Reviews Index](https://lowendboxes.review/)
+  * [LowEndBoxes Whitelist](https://lowendboxes.review/the-whitelist/)
+* [LowEndTalk](https://www.lowendtalk.com/)
+  * [LowEndTalk Provider Poll](https://www.lowendtalk.com/discussion/169775/let-provider-poll-2020-results)
+* [LowEndSpirit](https://talk.lowendspirit.com/)
+* [HostedTalk](https://hostedtalk.net/)
+
+### Managed Hosting
+
+Currently only displaying free options. Paid options coming soon and this will be spun off into its own page.
+
+#### Free Node.JS Hosting
+
+* [Heroku](https://heroku.com/)
+* [Vercel](https://vercel.com/)
+* [Netlify](https://netlify.app/)
+* [Glitch](https://glitch.me/)
+* [Red Hat OpenShift](https://www.openshift.com/)
+
+#### Free Python Stack
+
+* [Heroku](https://heroku.com/)
+* [Vercel](https://vercel.com/)
+* [Netlify](https://netlify.app/)
+* [Red Hat OpenShift](https://www.openshift.com/)
+* [PythonAnywhere](https://www.pythonanywhere.com/)
+
+#### Free LAMP Stack (Wordpress)
+
+* [HelioHost](https://www.heliohost.org/)
+* [000webhost](https://www.000webhost.com/)
+* [PythonAnywhere](https://www.pythonanywhere.com/)
