@@ -27,10 +27,12 @@ If you'd like to sponsor a link on this page, please contact [sponsors@7o8.tech]
 
 ## Free
 
-| Host                                               | CPU | RAM    | Disk   | Disk Type | Bandwidth |
-|----------------------------------------------------|-----|--------|--------|-----------|-----------|
-| [Oracle Cloud](https://www.oracle.com/cloud/free/) | 1   | 1 GB   | 100 GB | SSD       | Unlimited |
-| [Google Cloud](https://cloud.google.com/free)      | 1   | 600 MB | 30 GB  | SSD       | Unlimited |
+| Host                                                      | CPU | RAM    | Disk   | Disk Type | Bandwidth |
+|-----------------------------------------------------------|-----|--------|--------|-----------|-----------|
+| [Evolution Host](https://evolution-host.com/free-vps.php) | 8   | 16 GB  | 20 GB  | SSD       | 1 TB      |
+| [FreeMach](https://freemach.rowe.sh/)                     | 2   | 3 GB   | 120 GB | HDD       | 1 TB      |
+| [Oracle Cloud](https://www.oracle.com/cloud/free/)        | 1   | 1 GB   | 100 GB | SSD       | Unlimited |
+| [Google Cloud](https://cloud.google.com/free)             | 1   | 600 MB | 30 GB  | SSD       | Unlimited |
 
 ## $2/mo
 
