@@ -315,6 +315,7 @@ Currently only displaying free options. Paid options coming soon and this will b
 * [Netlify](https://netlify.app/)
 * [Glitch](https://glitch.me/)
 * [Red Hat OpenShift](https://www.openshift.com/)
+* [AlwaysData](https://www.alwaysdata.com/en/)
 
 #### Free Python Stack
 
@@ -323,6 +324,7 @@ Currently only displaying free options. Paid options coming soon and this will b
 * [Netlify](https://netlify.app/)
 * [Red Hat OpenShift](https://www.openshift.com/)
 * [PythonAnywhere](https://www.pythonanywhere.com/)
+* [AlwaysData](https://www.alwaysdata.com/en/)
 
 #### Free LAMP Stack (Wordpress)
 
