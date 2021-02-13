@@ -308,23 +308,20 @@ At this point, you're either using GPU instances or you've got to be crazy to no
 
 Currently only displaying free options. Paid options coming soon and this will be spun off into its own page.
 
-#### Free Node.JS Hosting
+#### Free Dynamic Hosting and Stack
+
+These commonly support standard languages like Python, Go, Java, C/C++, Ruby, Scala, Javascript/Node.JS, and more. Services may vary by provider.
 
 * [Heroku](https://heroku.com/)
 * [Vercel](https://vercel.com/)
 * [Netlify](https://netlify.app/)
 * [Glitch](https://glitch.me/)
+* [Replit](https://repl.it/)
 * [Red Hat OpenShift](https://www.openshift.com/)
-* [AlwaysData](https://www.alwaysdata.com/en/)
 
 #### Free Python Stack
 
-* [Heroku](https://heroku.com/)
-* [Vercel](https://vercel.com/)
-* [Netlify](https://netlify.app/)
-* [Red Hat OpenShift](https://www.openshift.com/)
 * [PythonAnywhere](https://www.pythonanywhere.com/)
-* [AlwaysData](https://www.alwaysdata.com/en/)
 
 #### Free LAMP Stack (Wordpress)
 
