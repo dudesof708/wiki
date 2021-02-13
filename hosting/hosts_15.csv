@@ -7,8 +7,10 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [CreeperHost](https://www.creeperhost.net/services),$10.19/mo,3,1.5 GB,15 GB,SSD,Unlimited
 [Dedipath](https://dedipath.com/ssd-vps),$12.50/mo,3,4 GB,120 GB,SSD,Unlimited
 [DigitalOcean](https://www.digitalocean.com/pricing/),$15/mo,2,2 GB,60 GB,SSD,3 TB
+[Dreamhost](https://www.dreamhost.com/cloud/computing/),$12/mo,1,2 GB,80 GB,SSD,Unlimited
 [ExtraVM](https://extravm.com/vps.php),$15/mo,2,3 GB,45 GB,SSD,4 TB
 [FlipperHost](https://flipperhost.com/openvz-vps.php),$13.95/mo,4,4 GB,150 GB,HDD,12 TB
+[Freehostia](https://www.freehostia.com/),$14/mo,1,1 GB,20 GB,HDD,1 TB
 [GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php),$12/mo,1,2 GB,20 GB,SSD,2 TB
 [Host Pls](https://host-pls.com/cart.php?gid=1),$12.99/mo,3,4 GB,50 GB,SSD,400 GB
 [Host4Fun](https://client.host4fun.com/cart.php?gid=43),$14/mo,4,4 GB,50 GB,SSD,2 TB
@@ -25,5 +27,3 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [TheStack](https://thestack.net/vps),$15/mo,4,4 GB,80 GB,HDD,5 TB
 [Time4VPS](https://www.time4vps.com/linux-vps/),€9.99/mo,2,8 GB,80 GB,HDD,8 TB
 [VPSDime](https://vpsdime.com/),$14/mo,4,12 GB,60 GB,SSD,4 TB
-[Freehostia](https://www.freehostia.com/),$14/mo,1,1 GB,20 GB,HDD,1 TB
-[Dreamhost](https://www.dreamhost.com/cloud/computing/),$12/mo,1,2 GB,80 GB,SSD,Unlimited

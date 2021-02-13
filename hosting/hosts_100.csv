@@ -8,6 +8,7 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [CreeperHost](https://www.creeperhost.net/services),$75.78/mo,8,12 GB,100 GB,SSD,Unlimited
 [Dedipath](https://dedipath.com/ssd-kvm-vps),$65.50/mo,8,16 GB,100 SD,SSD,Unlimited
 [DigitalOcean](https://www.digitalocean.com/pricing/),$80/mo,8,16 GB,320 GB,SSD,6 TB
+[Freehostia](https://www.freehostia.com/),$86/mo,4,8 GB,160 GB,HDD,4 TB
 [GalaxyGate](https://galaxygate.net/hosting/vps/),$80/mo,8,32 GB,100 GB,NVMe,Unlimited
 [Google Cloud](https://cloud.google.com/),$740/yr,2,8 GB,60 GB,SSD,Unlimited
 [GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php),$96/mo,8,16 GB,160 GB,SSD,16 TB
@@ -30,4 +31,3 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [Time4VPS](https://www.time4vps.com/linux-vps/),€65.99/mo,8,32 GB,320 GB,HDD,32 TB
 [Virmach](https://virmach.com/10gbps-linux-windows-cloud-vps/),$80/mo,6,16 GB,250 GB,SSD,8 TB
 [Vultr](https://www.vultr.com/products/cloud-compute/),$80/mo,6,16 GB,320 GB,SSD,5 TB
-[Freehostia](https://www.freehostia.com/),$86/mo,4,8 GB,160 GB,HDD,4 TB
