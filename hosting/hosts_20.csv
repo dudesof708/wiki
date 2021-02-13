@@ -1,4 +1,5 @@
 Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[A2 Hosting](https://www.a2hosting.com/vps-hosting/unmanaged),$16.99/mo,4,4 GB,450 GB,SSD,4 TB
 [AcroServers](https://acroservers.com/vps_cloud),€15/mo,2,2 GB,40 GB,SSD,2 TB
 [AWS](https://aws.amazon.com/savingsplans/pricing/),$235/yr,2,4 GB,30 GB,SSD,Unlimited
 [Byet Internet Services](https://byet.host/),$20/mo,1,756 MB,40 GB,HDD,200 GB
@@ -12,6 +13,7 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [FlipperHost](https://flipperhost.com/kvm-vps.php),$19.95/mo,3,3 GB,80 GB,HDD,9 TB
 [GalaxyGate](https://galaxygate.net/hosting/vps/),$20/mo,3,8 GB,50 GB,NVMe,Unlimited
 [Google Cloud](https://cloud.google.com/),$185/yr,2,8 GB,50 GB,SSD,Unlimited
+[Hetzner](https://www.hetzner.com/cloud?country=us),€15.90/mo,4,16 GB,160 GB,HDD,20 TB
 [Hostigger](https://www.hostigger.com/vps),$20/mo,3,8 GB,100 GB,SSD,10 TB
 [Hostinger](https://www.hostinger.com/vps-hosting),$15.95/mo,4,4 GB,80 GB,SSD,4 TB
 [HostNamaste](https://www.hostnamaste.com/openvz-vps.php),$19.99/mo,4,4 GB,150 GB,HDD,5 TB
@@ -22,6 +24,7 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [Linode](https://www.linode.com/pricing/),$20/mo,2,4 GB,80 GB,SSD,Unlimited
 [NexusBytes](https://my.nexusbytes.com/cart.php?gid=23),$20,4,8 GB,80 GB,SSD,8 TB
 [PakCloudHost](https://www.pakcloudhost.com/vps-hosting/),$20/mo,2,2 GB,40 GB,HDD,2 TB
+[PrewebHost](https://www.prewebhost.com/cheap-vps-hosting.php),$17.99/mo,2,8 GB,40 GB,HDD,10 TB
 [RackNerd](https://racknerd.com/kvm-vps),$17.99/mo,2,1 GB,50 GB,SSD,Unlimited
 [RamNode](https://www.ramnode.com/),$20/mo,4,4 GB,100 GB,SSD,4 TB
 [Scaleway](https://www.scaleway.com/en/pricing/),€14.4/mo,3,4 GB,40 GB,NVMe,Unlimited

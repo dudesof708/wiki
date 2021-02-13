@@ -1,6 +1,8 @@
 Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [100WebSpace.com](https://www.100webspace.com/),$10/mo,1,1 GB,20 GB,HDD,300 GB
+[A2 Hosting](https://www.a2hosting.com/vps-hosting/unmanaged),$7.59/mo,1,1 GB,150 GB,SSD,2 TB
 [AcroServers](https://acroservers.com/vps_cloud),€5/mo,1,512 MB,10 G,SSD,500 GB
+[ALCHosting](https://www.alchosting.net/vps-hosting/),$7.95/mo,1,1 GB,25 GB,HDD,1 TB
 [AwardSpace](https://www.awardspace.com/),$120/yr,1,1 GB,25 GB,HDD,2 TB
 [AWS](https://aws.amazon.com/savingsplans/pricing/),$120/yr,2,2 GB,10 GB,SSD,Unlimited
 [Byet Internet Services](https://byet.host/),$10/mo,1,512 MB,30 GB,HDD,125 GB
@@ -14,6 +16,7 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [FlipperHost](https://flipperhost.com/),$9.95/mo,4,2 GB,100 GB,HDD,8 TB
 [GalaxyGate](https://galaxygate.net/hosting/vps/),$10/mo,2,4 GB,30 GB,NVMe,Unlimited
 [Google Cloud](https://cloud.google.com/),$93/yr,2,8 GB,30 GB,SSD,Unlimited
+[Hetzner](https://www.hetzner.com/cloud?country=us),€6.90/mo,3,4 GB,80 GB,HDD,20 TB
 [Hosodo](https://hostodo.com/ssd-kvm),$9.99/mo,4,4 GB,100 GB,SSD,6 TB
 [Host Namaste](https://www.hostnamaste.com/openvz-vps.php),$9.99/mo,2,2 GB,50 GB,HDD,3 TB
 [Host Pls](https://host-pls.com/),$6.99/mo,2,2 GB,25 GB,SSD,200 GB
@@ -29,9 +32,11 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/),$10/mo,2,2 GB,40 GB,SSD,Unlimited
 [NexusBytes](https://my.nexusbytes.com/cart.php?gid=23),$10/mo,2,4 GB,40 GB,SSD,4 TB
 [PakCloudHost](https://www.pakcloudhost.com/vps-hosting/),$10/mo,1,1 GB,20 GB,HDD,1 TB
+[PrewebHost](https://www.prewebhost.com/cheap-vps-hosting.php),$6.99/mo,1,2 GB,10 GB,HDD,10 TB
 [RamNode](https://www.ramnode.com/),$10/mo,2,2 GB,65 GB,SSD,3 TB
 [Scaleway](https://www.scaleway.com/en),€7.20/mo,2,2 GB,20 GB,NVMe,Unlimited
 [SimpleNode](https://simplenode.co/),$10/mo,2,1 GB,30 GB,HDD,500 GB
+[SKB](https://skb-enterprise.com/nvme-vps/),€4.99/mo,1,2 GB,50 GB,NVMe,Unlimited
 [SkySilk](https://www.skysilk.com/cloud/),$10/mo,1,2 GB,30 GB,NVMe,Unlimited
 [SoftShellWeb](https://softshellweb.com/vps-hosting-usa),$7/mo,1,2 GB,40 GB,SSD,Unlimited
 [StockVPS](https://stockvps.com/),$10/mo,2,2 GB,50 GB,HDD,2 TB

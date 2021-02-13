@@ -1,4 +1,5 @@
 Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
+[A2 Hosting](https://www.a2hosting.com/vps-hosting/unmanaged),$84.59/mo,6,16 GB,250 GB,NVMe,3 TB
 [Accu Web Hosting](https://www.accuwebhosting.com/),$1152/yr,4,8 GB,100 GB,SSD,1 TB
 [AWS](https://aws.amazon.com/ec2/instance-types/t2/),$1159/yr,2,8 GB,60 GB,SSD,Unlimited
 [Byet Internet Services](https://byet.host/),$66/mo,1,1.75 GB,250 GB,HDD,1 TB
@@ -12,7 +13,9 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [GalaxyGate](https://galaxygate.net/hosting/vps/),$80/mo,8,32 GB,100 GB,NVMe,Unlimited
 [Google Cloud](https://cloud.google.com/),$740/yr,2,8 GB,60 GB,SSD,Unlimited
 [GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php),$96/mo,8,16 GB,160 GB,SSD,16 TB
+[Hetzner](https://www.hetzner.com/cloud?country=us),€49.90/mo,16,32 GB,360 GB,HDD,20 TB
 [Hostigger](https://www.hostigger.com/1gbps-unlimited),$100/mo,4,16 GB,100 GB,SSD,Unlimited
+[HostPoco](https://www.hostpoco.com/cheap-us-vps-hosting.php),$84.99/mo,1,8 GB,180 GB,HDD,8 TB
 [HostSailor](https://hostsailor.com/vps-hosting/openvz-ssd-vps/),$56.99/mo,4,8 GB,80 GB,SSD,8 TB
 [Ideastack](https://ideastack.com/),$84/mo,8,32 GB,250 GB,SSD,2 TB
 [KnownHost](https://www.knownhost.com/managed-vps.html),$80.50/mo,6,8 GB,200 GB,SSD,5 TB
@@ -25,6 +28,7 @@ Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
 [RackNerd](https://racknerd.com/kvm-vps),$55.99/mo,7,12 GB,300 GB,Hybrid,6 TB
 [RamNode](https://www.ramnode.com/),$96/mo,4,16 GB,500 GB,NVMe,6 TB
 [Scaleway](https://www.scaleway.com/en/pricing/),€60.48/mo,4,16 GB,160 GB,NVMe,Unlimited
+[SKB](https://skb-enterprise.com/nvme-vps/),€68.99/mo,6,32 GB,800 GB,NVMe,Unlimited
 [SkySilk](https://www.skysilk.com/cloud/),$75/mo,6,24 GB,400 GB,SSD,5 TB
 [SoftShellWeb](https://softshellweb.com/vps-hosting-usa),$98/mo,6,32 GB,480 GB,SSD,Unlimited
 [TheStack](https://thestack.net/hybrid-servers),$60/mo,8,16 GB,240 GB,HDD,10 TB
