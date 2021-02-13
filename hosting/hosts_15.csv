@@ -1,26 +1,29 @@
 Host,Price,CPU,RAM,Disk,Disk Type,Bandwidth
-[Contabo](https://contabo.com/?show=vps),€8.99/mo,6,16 GB,400 GB,SSD,Unlimited
-[VPSDime](https://vpsdime.com/),$14/mo,4,12 GB,60 GB,SSD,4 TB
-[Hostigger](https://www.hostigger.com/vps),$15/mo,2,8 GB,100 GB,SSD,10 TB
-[Time4VPS](https://www.time4vps.com/linux-vps/),€9.99/mo,2,8 GB,80 GB,HDD,8 TB
-[Hostodo](https://hostodo.com/ssd-kvm),$14.99/mo,4,6 GB,120 GB,SSD,7 TB
-[FlipperHost](https://flipperhost.com/openvz-vps.php),$13.95/mo,4,4 GB,150 GB,HDD,12 TB
-[HyperExpert](https://www.hyperexpert.com/features.php#vps-plans),$13.96/mo,4,4 GB,80 GB,Hybrid,Unlimited
-[Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/),$15/mo,4,4 GB,60 GB,SSD,Unlimited
-[Host4Fun](https://client.host4fun.com/cart.php?gid=43),$14/mo,4,4 GB,50 GB,SSD,2 TB
-[TheStack](https://thestack.net/vps),$15/mo,4,4 GB,80 GB,HDD,5 TB
-[SoftShellWeb](https://softshellweb.com/vps-hosting-usa),$14/mo,2,4 GB,80 GB,SSD,Unlimited
-[Dedipath](https://dedipath.com/ssd-vps),$12.50/mo,3,4 GB,120 GB,SSD,Unlimited
-[Hostinger](https://www.hostinger.com/vps-hosting),$12.95/mo,3,3 GB,60 GB,SSD,3 TB
-[ExtraVM](https://extravm.com/vps.php),$15/mo,2,3 GB,45 GB,SSD,4 TB
-[RamNode](https://www.ramnode.com/),$15/mo,2,3 GB,75 GB,SSD,3.5 TB
-[Host Pls](https://host-pls.com/cart.php?gid=1),$12.99/mo,3,4 GB,50 GB,SSD,400 GB
-[DigitalOcean](https://www.digitalocean.com/pricing/),$15/mo,2,2 GB,60 GB,SSD,3 TB
-[AWS](https://aws.amazon.com/savingsplans/pricing/),$161/yr,1,2 GB,30 GB,SSD,Unlimited
-[Hudson Valley Host](https://hudsonvalleyhost.com/self-managed-vps-2/),$11/mo,1,2 GB,150 GB,HDD,3 TB
-[GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php),$12/mo,1,2 GB,20 GB,SSD,2 TB
-[CreeperHost](https://www.creeperhost.net/services),$10.19/mo,3,1.5 GB,15 GB,SSD,Unlimited
-[Ideastack](https://ideastack.com/),$11/mo,1,2 GB,50 GB,SSD,1 TB
+[Accu Web Hosting](https://www.accuwebhosting.com/),$144/yr,2,1 GB,20 GB,SSD,250 GB
 [AcroServers](https://acroservers.com/vps_cloud),€10/mo,1,1 GB,30 GB,SSD,1.5 TB
+[AWS](https://aws.amazon.com/savingsplans/pricing/),$161/yr,1,2 GB,30 GB,SSD,Unlimited
 [Comet](https://www.cometvps.com/),$13/mo,1,1 GB,10 GB,SSD,1 TB
+[Contabo](https://contabo.com/?show=vps),€8.99/mo,6,16 GB,400 GB,SSD,Unlimited
+[CreeperHost](https://www.creeperhost.net/services),$10.19/mo,3,1.5 GB,15 GB,SSD,Unlimited
+[Dedipath](https://dedipath.com/ssd-vps),$12.50/mo,3,4 GB,120 GB,SSD,Unlimited
+[DigitalOcean](https://www.digitalocean.com/pricing/),$15/mo,2,2 GB,60 GB,SSD,3 TB
+[ExtraVM](https://extravm.com/vps.php),$15/mo,2,3 GB,45 GB,SSD,4 TB
+[FlipperHost](https://flipperhost.com/openvz-vps.php),$13.95/mo,4,4 GB,150 GB,HDD,12 TB
+[GreenCloudVPS](https://greencloudvps.com/kvm-10gbps-vps.php),$12/mo,1,2 GB,20 GB,SSD,2 TB
+[Host Pls](https://host-pls.com/cart.php?gid=1),$12.99/mo,3,4 GB,50 GB,SSD,400 GB
+[Host4Fun](https://client.host4fun.com/cart.php?gid=43),$14/mo,4,4 GB,50 GB,SSD,2 TB
+[Hostigger](https://www.hostigger.com/vps),$15/mo,2,8 GB,100 GB,SSD,10 TB
+[Hostinger](https://www.hostinger.com/vps-hosting),$12.95/mo,3,3 GB,60 GB,SSD,3 TB
+[Hostodo](https://hostodo.com/ssd-kvm),$14.99/mo,4,6 GB,120 GB,SSD,7 TB
+[Hudson Valley Host](https://hudsonvalleyhost.com/self-managed-vps-2/),$11/mo,1,2 GB,150 GB,HDD,3 TB
+[HyperExpert](https://www.hyperexpert.com/features.php#vps-plans),$13.96/mo,4,4 GB,80 GB,Hybrid,Unlimited
+[Ideastack](https://ideastack.com/),$11/mo,1,2 GB,50 GB,SSD,1 TB
+[Los Angeles VPS](https://www.losangelesvps.com/vps-hosting/),$15/mo,4,4 GB,60 GB,SSD,Unlimited
 [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/cloud-services/),$14.60/mo,1,750 MB,20 GB,HDD,Unlimited
+[RamNode](https://www.ramnode.com/),$15/mo,2,3 GB,75 GB,SSD,3.5 TB
+[SoftShellWeb](https://softshellweb.com/vps-hosting-usa),$14/mo,2,4 GB,80 GB,SSD,Unlimited
+[TheStack](https://thestack.net/vps),$15/mo,4,4 GB,80 GB,HDD,5 TB
+[Time4VPS](https://www.time4vps.com/linux-vps/),€9.99/mo,2,8 GB,80 GB,HDD,8 TB
+[VPSDime](https://vpsdime.com/),$14/mo,4,12 GB,60 GB,SSD,4 TB
+[Freehostia](https://www.freehostia.com/),$14/mo,1,1 GB,20 GB,HDD,1 TB
+[Dreamhost](https://www.dreamhost.com/cloud/computing/),$12/mo,1,2 GB,80 GB,SSD,Unlimited
