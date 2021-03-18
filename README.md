@@ -12,6 +12,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Git Setup](software/git)
   * [MuseScore Setup](software/musescore)
   * [ffmpeg Setup](software/ffmpeg)
+* [Running Task List](tasks)
 * [Website Development Guide](website)
 * [Cloud Computing](hosting)
 * [YouTube Reference](youtube)
