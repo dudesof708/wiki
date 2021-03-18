@@ -13,7 +13,8 @@ For more information on the task list, please see the [kanban board](https://git
   2. Name of item
   3. Category of item (optional)
   4. Price of item
-  5. Barcode (please scan the barcode with a barcode scanning app and record the UPC or other code)
+  5. Barcode (preferrably code, image is acceptable)
+  6. Picture of item (optional)
 
   * *Suggested tools:* Google Sheets, [QR & Barcode Scanner](https://play.google.com/store/apps/details?id=org.barcodescanner) (Android, [F-Droid](https://f-droid.org/packages/com.example.barcodescanner/)), [Scandit Barcode Scanner](https://apps.apple.com/us/app/scandit-barcode-scanner/id453880584) (iOS)
   * *Suggested programming langauges:* None
