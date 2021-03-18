@@ -14,8 +14,10 @@ For more information on the task list, please see the [kanban board](https://git
   3. Category of item (optional)
   4. Price of item
   5. Barcode (please scan the barcode with a barcode scanning app and record the UPC or other code)
-  
-  * *Suggested tools:* Google Sheets
+
+  * *Suggested tools:* Google Sheets, [QR & Barcode Scanner](https://play.google.com/store/apps/details?id=org.barcodescanner) (Android, [F-Droid](https://f-droid.org/packages/com.example.barcodescanner/)), [Scandit Barcode Scanner](https://apps.apple.com/us/app/scandit-barcode-scanner/id453880584) (iOS)
+  * *Suggested programming langauges:* None
+  * *Suggested libraries:* None
 * Update the Dudes of 708 website. Format it so it showcases our latest projects, has a nice description of each of the members, and a gallery of community projects we are involved in (preferrably each on its own separate page). Please make the design of all the pages cohesive if you use a template.
   * *Suggested tools:* Git
   * *Suggested programming languages:* HTML, CSS, JavaScript
