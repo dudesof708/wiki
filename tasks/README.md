@@ -6,7 +6,7 @@
 
 -----
 
-For more information on the task list, please see the [kanban board](https://github.com/orgs/dudesof708/projects/3).
+For current status of tasks, please see the [kanban board](https://github.com/orgs/dudesof708/projects/3).
 
 * Collect information about prices of items in Trader Joe's. Store it in any format you want (preferrably a spreadsheet), but please collect the following data:
   1. Date item was observed
