@@ -8,7 +8,7 @@
 
 **Note:** links were previously sorted by opinion, but now they are sorted by alphabetical order. If you would like yours to show up at the top, please contact the email address below.
 
-If you'd like to sponsor a link on this page, please contact [sponsors@dudesof708.tech](mailto:sponsors@dudesof708.tech). This wiki is used publicly by the Dudes of 708.
+If you'd like to sponsor a link on this page, please contact [sponsors@dudesof708.com](mailto:sponsors@dudesof708.com). This wiki is used publicly by the Dudes of 708.
 
 **Additionally, please note that it's probably cheaper to host your project on a Raspberry Pi.**
 
