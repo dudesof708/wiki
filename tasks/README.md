@@ -4,6 +4,10 @@
 
 [Back to homepage](..)
 
+## Subpages
+
+* [ChompChomp Install Guide](chompchomp)
+
 -----
 
 For current status of tasks, please see the [kanban board](https://github.com/orgs/dudesof708/projects/3).
