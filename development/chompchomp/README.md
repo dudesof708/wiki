@@ -27,6 +27,8 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
     * [Xcode](#xcode)
   * [Setting Up](#setting-up)
   * [Project Structure](#project-structure)
+    * [File Structure](#file-structure)
+    * [Code Structure](#code-structure)
   * [Making an Edit](#making-an-edit)
   * [Testing Your Changes](#testing-your-changes)
   * [Building the App](#building-the-app)
@@ -146,6 +148,14 @@ Next, proceed to [setting up](#setting-up).
    ```
 
 ### Project Structure
+
+> This section is a work-in-progress.
+
+#### File Structure
+
+> This section is a work-in-progress.
+
+#### Code Structure
 
 > This section is a work-in-progress.
 
