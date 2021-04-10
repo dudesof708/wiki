@@ -49,7 +49,18 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 
 #### Android Device Setup
 
-> This section is a work-in-progress.
+1. Download the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) from the Play Store. Every step after this is ***optional***.
+
+**Optional Steps:**
+
+1. Download the [Android SDK Platform Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) onto your computer.
+2. Extract the folder to a folder on your computer you won't easily delete, like `C:\Software\platform-tools` on Windows or `/home/<username>/platform-tools` on macOS or Linux.
+3. Open a Terminal or Command Prompt window and navigate to the folder you extracted using the `cd` (**c**hange **d**irectory) command. For example, if I extracted it to `C:\Software\platform-tools`, I would write `cd C:\Software\platform-tools`.
+4. On your Android device, enable Developer Options. First navigate to **Settings**, and scroll to the bottom and find **About Phone**.
+5. Tap **Build Number** seven times. You should see a toast telling you Developer Mode is now enabled.
+6. Navigate back one screen, and you'll find a **Developer Options** button. Tap it, and enable the option that says something like **Enable USB debugging**. The exact wording may depend on your device and version of Android.
+7. Plug your Android device into your computer. In your Terminal, type `adb devices` on Windows or `./adb devices` for macOS and Linux computers.
+8. If prompted on your Android device, accept the prompt to allow USB debugging on your device.
 
 #### iOS Device Setup
 
