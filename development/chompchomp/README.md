@@ -83,8 +83,6 @@ If you already have an editor you like, jump to [project structure](#project-str
 
 ### Editor
 
-> This section is a work-in-progress.
-
 I personally use [VS Code](https://code.visualstudio.com/), but I'm going to try to cover all the potential ways you may want to develop. If you don't already use an editor, download [VS Code](https://code.visualstudio.com/) and head on to the [VS Code section](#vs-code)
 
 Otherwise, pick your editor of choice:
