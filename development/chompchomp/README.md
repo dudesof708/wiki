@@ -37,11 +37,13 @@ You can go the [table of contents](#table-of-contents) in order to jump to any s
 
 ### Node.js Setup
 
-> This section is a work-in-progress.
+1. Navigate to the [Node.js website](https://nodejs.org/en/) and download the latest LTS installer. You are encouraged to download any additional tools reccommended by Node.js.
+
+*Note:* if you are a Linux user, you may have to access a NodeSource distribution. It is assumed that if you are a Linux user you know what you are doing.
 
 ### Expo Setup
 
-> This section is a work-in-progress.
+1. Open a Terminal and run `npm i expo-cli --global`.
 
 ### Device Setup
 
@@ -70,7 +72,7 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 
 ## Developing
 
-> This section is a work-in-progress.
+If you already have an editor you like, jump to [project structure](#project-structure).
 
 ### Editor
 
