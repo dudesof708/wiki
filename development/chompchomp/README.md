@@ -167,7 +167,10 @@ The project is broken up into a few important folders and files:
   * [`HomeScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/HomeScreen.js): The home screen
   * [`NewItemScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/NewItemScreen.js): Screen to create a new item
   * [`PhotoScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/PhotoScreen.js): Screen to take and upload images of the product
-  * [`ScannerScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/ScannerScreen.js)
+  * [`ScannerScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/ScannerScreen.js): Screen for scanning barcodes
+  * [`UploadsScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/UploadsScreen.js): Screen for seeing your uploads history
+* [`App.js`](https://github.com/dudesof708/ChompChomp/blob/master/App.js): Main entrypoint of the app, defines the screens of the app
+* [`app.json`](https://github.com/dudesof708/ChompChomp/blob/master/app.json): App definition file
 
 #### Code Structure
 
