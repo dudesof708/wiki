@@ -25,6 +25,7 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
     * [Vim](#vim)
     * [Expo Snack](#expo-snack)
     * [Xcode](#xcode)
+  * [Setting Up](#setting-up)
   * [Project Structure](#project-structure)
   * [Making an Edit](#making-an-edit)
   * [Testing Your Changes](#testing-your-changes)
@@ -102,9 +103,9 @@ Otherwise, pick your editor of choice:
 
 #### VS Code
 
-> This section is a work-in-progress.
+You can download VS Code at [this link](https://code.visualstudio.com/). Thankfully, because VS Code is designed as an Electron app, it provides Javascript/Typescript extensions, debugging, and IntelliSense out of the box. ChompChomp is written in pure Javascript with React extensions, and does not support Typescript at this time.
 
-You can download VS Code at [this link](https://code.visualstudio.com/).
+This is really all you need, but you should set up [Expo Tools](https://marketplace.visualstudio.com/items?itemName=byCedric.vscode-expo) and [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) (both are one click extensions to add) for your VS Code environment.
 
 #### Vim
 
@@ -121,6 +122,10 @@ It provides all the libraries and tools built-in, and is a conveneint way to dev
 Xcode is the official code editor by Apple for Macs, and is only available for macOS. You can download it at [this link](https://developer.apple.com/xcode/). It is also the only way to self-compile the iOS version of ChompChomp, so you'll need to follow this setup guide even if you don't use Xcode normally so you can compile.
 
 Download Xcode from the link above and run it. Apple will set up all the developer tools for you automatically. You'll also need an Apple ID, which frankly is weird if you have a Mac but don't have one.
+
+### Setting Up
+
+> This section is a work-in-progress.
 
 ### Project Structure
 
