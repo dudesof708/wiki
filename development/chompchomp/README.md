@@ -99,7 +99,7 @@ You can download VS Code at [this link](https://code.visualstudio.com/).
 
 #### Vim
 
-> This section is a work-in-progress.
+Why are you reading this if you already know your way around Vim? Set it up for JavaScript/TypeScript bindings and you'll be fine.
 
 #### Expo Snack
 
