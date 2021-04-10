@@ -1,4 +1,4 @@
-# Projects Listings
+# Software Development Homepage
 
 -----
 
@@ -6,6 +6,7 @@
 
 ## Subpages
 
+* [ChompChomp](chompchomp)
 * [Website](website)
 
 -----
