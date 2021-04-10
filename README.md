@@ -8,6 +8,8 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Ideas](archive/ideas)
   * [Minecraft Speedrunning](archive/minecraft)
   * [Wikipedia Speedrunning](archive/wikipedia)
+* [Software Development](development)
+  * [Website](development/website)
 * [Projects](projects)
 * [Software Setup Guides](software)
   * [Unity Setup](software/unity)
@@ -18,7 +20,6 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [ffmpeg Setup](software/ffmpeg)
 * [Running Task List](tasks)
   * [ChompChomp Install Guide](tasks/chompchomp)
-* [Website Development Guide](website)
 * [Cloud Computing](hosting)
 * [YouTube Reference](youtube)
   * [Wikipedia Speedrunning](youtube/wikipedia)
@@ -29,7 +30,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
 
 ## About Us
 
-The **Dudes of 708** are just a bunch of cool guys doing cool things. Check us out on our [YouTube channel](https://www.youtube.com/channel/UCdbqUWT3_0WgybqNuCX9uJA), our [Patreon page](https://patreon.com/dudesof708), or our [GitHub page](https://github.com/dudesof708). Want to get in touch with us? You can contact us at our [Discord server](https://discord.gg/WUGMTcZ) as well!
+The [**Dudes of 708**](https://dudesof708.com) are just a bunch of cool guys doing cool things. Check us out on our [YouTube channel](https://www.youtube.com/channel/UCdbqUWT3_0WgybqNuCX9uJA), our [Patreon page](https://patreon.com/dudesof708), or our [GitHub page](https://github.com/dudesof708). Want to get in touch with us? You can contact us at our [Discord server](https://discord.gg/WUGMTcZ) as well!
 
 ## Getting Started
 
