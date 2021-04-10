@@ -112,7 +112,7 @@ Why are you reading this if you already know your way around Vim? Set it up for 
 
 #### Expo Snack
 
-Expo Snack runs in the browser and basically acts like a Repl.it, if you have used that before. It provides a way to develop and test without leaving your browser. You can acces it [here](https://snack.expo.io/).
+Expo Snack runs in the browser and basically acts like a Repl.it, if you have used that before. It provides a way to develop and test without leaving your browser. You can access it [here](https://snack.expo.io/).
 
 It provides all the libraries and tools built-in, and is a conveneint way to develop. It isn't officially supported by ChompChomp but you are free to use this to develop if you wish to sync your changes to `git` manually.
 
