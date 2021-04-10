@@ -149,7 +149,7 @@ Next, proceed to [setting up](#setting-up).
 
 ### Project Structure
 
-> This section is a work-in-progress.
+If you are curious how the files are laid out, please see [file structure](#file-structure), or you can see [the code structure](#code-structure) if you want to get a sense of how the code is formatted so you can make similar contributions.
 
 #### File Structure
 
@@ -172,7 +172,15 @@ The project is broken up into a few important folders and files (you can click o
 
 #### Code Structure
 
-> This section is a work-in-progress.
+A quick overview of the way our code is structured:
+
+* All objects, views, components, etc. are just wrapped functions. Classes don't make sense, as if you're writing some sort of data class or handler, it shouldn't be included in ChompChomp, but in its own library as a repository.
+* We should strive to make ChompChomp just a frontend, and do little processing on the device.
+* We use CamelCase for naming convention, with a capital letter for wrapped functions and objects and a lowercase letter like camelCase for variables.
+
+**Components** appear in the `components` folder and represent parts of views that may or may not be reused. This can include selection boxes, dialog boxes, repeated text input boxes, etc.
+
+**Views** appear in the `views` folder, and there is one file/function for every view that appears in the app. Each one is linked to the `App.js` file.
 
 ### Making an Edit
 
