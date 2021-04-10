@@ -12,6 +12,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Website](development/website)
 * [Glossary](glossary)
 * [Projects](projects)
+  * [Cloud Computing](projects/hosting)
 * [Meta Information](meta)
   * [Credits](meta/credits)
   * [Glossary](meta/glossary)
@@ -23,10 +24,6 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Unity Setup](software/unity)
     * [Developing in C#](software/unity/code)
     * [Resources to Learn Unity](software/unity/learn)
-
-* [Cloud Computing](hosting)
-* [YouTube Reference](youtube)
-  * [Wikipedia Speedrunning](youtube/wikipedia)
 
 -----
 
