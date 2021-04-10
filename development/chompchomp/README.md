@@ -107,9 +107,11 @@ You can download VS Code at [this link](https://code.visualstudio.com/). Thankfu
 
 This is really all you need, but you should set up [Expo Tools](https://marketplace.visualstudio.com/items?itemName=byCedric.vscode-expo) and [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) (both are one click extensions to add) for your VS Code environment.
 
+Next proceed to [setting up](#setting-up).
+
 #### Vim
 
-Why are you reading this if you already know your way around Vim? Set it up for JavaScript/TypeScript bindings and you'll be fine.
+Why are you reading this if you already know your way around Vim? Set it up for JavaScript/TypeScript bindings and you'll be fine. Next, proceed to [setting up](#setting-up).
 
 #### Expo Snack
 
@@ -117,11 +119,15 @@ Expo Snack runs in the browser and basically acts like a Repl.it, if you have us
 
 It provides all the libraries and tools built-in, and is a conveneint way to develop. It isn't officially supported by ChompChomp but you are free to use this to develop if you wish to sync your changes to `git` manually.
 
+Next, proceed to [setting up](#setting-up).
+
 #### Xcode
 
 Xcode is the official code editor by Apple for Macs, and is only available for macOS. You can download it at [this link](https://developer.apple.com/xcode/). It is also the only way to self-compile the iOS version of ChompChomp, so you'll need to follow this setup guide even if you don't use Xcode normally so you can compile.
 
 Download Xcode from the link above and run it. Apple will set up all the developer tools for you automatically. You'll also need an Apple ID, which frankly is weird if you have a Mac but don't have one.
+
+Next, proceed to [setting up](#setting-up).
 
 ### Setting Up
 
