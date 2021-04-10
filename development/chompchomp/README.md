@@ -50,7 +50,11 @@ You can go the [table of contents](#table-of-contents) in order to jump to any s
 
 ### Expo Setup
 
-1. Open a Terminal and run `npm i expo-cli --global`.
+1. Open a Terminal and run
+
+   ```bash
+   npm i expo-cli --global
+   ```
 
 ### Device Setup
 
