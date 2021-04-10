@@ -157,12 +157,17 @@ Next, proceed to [setting up](#setting-up).
 
 The project is broken up into a few important folders and files:
 
-* `assets`: Stores asset files, images, icons, and other such static files that remain largely unchanged
+* [`assets`](https://github.com/dudesof708/ChompChomp/tree/master/assets): Stores asset files, images, icons, and other such static files that remain largely unchanged
 * [`components`](https://github.com/dudesof708/ChompChomp/tree/master/components): Small Javascript files that may be used once or more than once, but do not represent an entire view
   * [`StoreSelector.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/StoreSelector.js): The dialog box that allows you to select a store
   * [`UploadErrorDialog.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/UploadErrorDialog.js): The dialog box that shows up when the upload fails
   * [`UploadingDialog.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/UploadingDialog.js): The dialog box that shows up while you are uploading
-* 
+* [`config`](https://github.com/dudesof708/ChompChomp/tree/master/config): Config files for various parts of the app
+* [`views`](https://github.com/dudesof708/ChompChomp/tree/master/views): Different screens for the app
+  * [`HomeScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/HomeScreen.js): The home screen
+  * [`NewItemScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/NewItemScreen.js): Screen to create a new item
+  * [`PhotoScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/PhotoScreen.js): Screen to take and upload images of the product
+  * [`ScannerScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/ScannerScreen.js)
 
 #### Code Structure
 
