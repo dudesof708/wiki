@@ -2,7 +2,7 @@
 
 -----
 
-[Back to homepage](..)
+[Back to homepage](../..) • [archived posts](..)
 
 -----
 

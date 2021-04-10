@@ -4,7 +4,8 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
 
 ## Table of Contents
 
-* [Current Ideas](ideas)
+* [Archived Articles](archive)
+  * [Ideas](archive/ideas)
 * [Software Setup Guides](software)
   * [Unity Setup](software/unity)
     * [Developing in C#](software/unity/code)
