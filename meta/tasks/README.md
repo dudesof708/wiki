@@ -2,11 +2,7 @@
 
 -----
 
-[Back to homepage](..)
-
-## Subpages
-
-* [ChompChomp Install Guide](chompchomp)
+[Back to homepage](../..) • [meta](..)
 
 -----
 
