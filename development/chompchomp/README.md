@@ -27,6 +27,9 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
     * [Xcode](#xcode)
   * [Project Structure](#project-structure)
   * [Making an Edit](#making-an-edit)
+  * [Testing Your Changes](#testing-your-changes)
+  * [Building the App](#building-the-app)
+  * [Deploying Updates](#deploying-updates)
 
 ## Prerequisites
 
@@ -109,12 +112,26 @@ It provides all the libraries and tools built-in, and is a conveneint way to dev
 
 #### Xcode
 
-> This section is a work-in-progress.
+Xcode is the official code editor by Apple for Macs, and is only available for macOS. You can download it at [this link](https://developer.apple.com/xcode/). It is also the only way to self-compile the iOS version of ChompChomp, so you'll need to follow this setup guide even if you don't use Xcode normally so you can compile.
+
+Download Xcode from the link above and run it. Apple will set up all the developer tools for you automatically. You'll also need an Apple ID, which frankly is weird if you have a Mac but don't have one.
 
 ### Project Structure
 
 > This section is a work-in-progress.
 
 ### Making an Edit
+
+> This section is a work-in-progress.
+
+### Testing Your Changes
+
+> This section is a work-in-progress.
+
+### Building the App
+
+> This section is a work-in-progress.
+
+### Deploying Updates
 
 > This section is a work-in-progress.
