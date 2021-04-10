@@ -6,7 +6,7 @@
 
 -----
 
-First, make sure you have [git set up](../software/git).
+First, make sure you have [git set up](../../software/git).
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ First, make sure you have [git set up](../software/git).
 
 ## Downloading the Source Code
 
-You can follow the [git setup guide](../software/git), and clone [this repository](https://github.com/dudesof708/dudesof708.com). If you are using command-line, the command is:
+You can follow the [git setup guide](../../software/git), and clone [this repository](https://github.com/dudesof708/dudesof708.com). If you are using command-line, the command is:
 
 ```bash
 git clone https://github.com/dudesof708/dudesof708.com.git
