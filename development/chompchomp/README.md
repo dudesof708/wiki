@@ -17,6 +17,8 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
   * [Node.js Setup](#nodejs-setup)
   * [Expo Setup](#expo-setup)
   * [Device Setup](#device-setup)
+    * [Android Device Setup](#android-device-setup)
+    * [iOS Device Setup](#ios-device-setup)
 * [Developing](#developing)
   * [Editor](#editor)
   * [Project Structure](#project-structure)
@@ -31,8 +33,6 @@ You'll need the following already set up in order to follow the [setup portion o
 
 ## Setup
 
-> This section is a work-in-progress.
-
 You can go the [table of contents](#table-of-contents) in order to jump to any section of setup.
 
 ### Node.js Setup
@@ -44,6 +44,14 @@ You can go the [table of contents](#table-of-contents) in order to jump to any s
 > This section is a work-in-progress.
 
 ### Device Setup
+
+If you have an Android device, jump to the [Android device setup](#android-device-setup) section. If you have an iOS device, jump to the [iOS device setup](#ios-device-setup) section. You can set up both if you have both.
+
+#### Android Device Setup
+
+> This section is a work-in-progress.
+
+#### iOS Device Setup
 
 > This section is a work-in-progress.
 
