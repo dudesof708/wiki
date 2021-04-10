@@ -60,6 +60,8 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 
 1. Download the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) app from the Play Store. Every step after this is ***optional***.
 
+![Expo Go on the Play Store](https://i.imgur.com/9ieXXvy.png)
+
 *Optional Steps:*
 
 1. Download the [Android SDK Platform Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) onto your computer.
@@ -76,6 +78,8 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 1. Download the [Expo Go](https://apps.apple.com/us/app/expo-go/id982107779) app from the App Store.
 
 > If you own a Mac, there are additional advanced setup steps you can take advantage of, but they will not be covered in this guide beacuse I don't own a Mac. If you are a Mac user and would like to contribute usage of Xcode or other iOS debugging tools, by all means, please submit an improvement for this section.
+
+![Expo Go on the App Store](https://i.imgur.com/gyxfKNl.png)
 
 ## Developing
 
