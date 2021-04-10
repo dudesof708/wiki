@@ -2,7 +2,7 @@
 
 -----
 
-[Back to homepage](../..) • [tasks list](..)
+[Back to homepage](../..) • [software guides](..)
 
 -----
 

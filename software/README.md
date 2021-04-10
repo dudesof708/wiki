@@ -6,11 +6,12 @@
 
 ## Subpages
 
+* [ChompChomp Setup](chompchomp)
+* [ffmpeg Setup](ffmpeg)
+* [Git Setup](git)
 * [Unity Setup](unity)
   * [Developing in C#](unity/code)
   * [Resources to Learn Unity](unity/learn)
-* [Git Setup](git)
-* [ffmpeg Setup](ffmpeg)
 
 -----
 
