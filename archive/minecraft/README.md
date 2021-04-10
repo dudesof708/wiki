@@ -1,6 +1,10 @@
 # Minecraft Game Guide
 
-> A secret guide brought to you by Gideon Tong from Team B.
+-----
+
+[Back to homepage](../..) • [archived articles](..)
+
+-----
 
 **Game goal: obtain the "Not quite nine lives" advancement, aka charge a Respawn Anchor to the max.**
 

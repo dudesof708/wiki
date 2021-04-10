@@ -6,6 +6,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
 
 * [Archived Articles](archive)
   * [Ideas](archive/ideas)
+  * [Minecraft Speedrunning](archive/minecraft)
   * [Wikipedia Speedrunning](archive/wikipedia)
 * [Software Setup Guides](software)
   * [Unity Setup](software/unity)
