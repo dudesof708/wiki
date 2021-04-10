@@ -7,6 +7,7 @@
 ## Subpages
 
 * [Ideas](ideas)
+* [Wikipedia Speedrunning](wikipedia)
 
 -----
 

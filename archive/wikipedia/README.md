@@ -2,7 +2,7 @@
 
 -----
 
-[Back to homepage](../..) • [YouTube reference](..)
+[Back to homepage](../..) • [archived articles](..)
 
 -----
 
