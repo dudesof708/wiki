@@ -28,8 +28,8 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
 
 You'll need the following already set up in order to follow the [setup portion of this guide](#setup):
 
-• `git`: You can follow the [git setup guide](../../software/git) in order to set up git.
-• A GitHub account, and contributor access to the [`ChompChomp`](https://github.com/dudesof708/ChompChomp) repository.
+* `git`: You can follow the [git setup guide](../../software/git) in order to set up git.
+* A GitHub account, and contributor access to the [`ChompChomp`](https://github.com/dudesof708/ChompChomp) repository.
 
 ## Setup
 
