@@ -107,7 +107,7 @@ You can download VS Code at [this link](https://code.visualstudio.com/). Thankfu
 
 This is really all you need, but you should set up [Expo Tools](https://marketplace.visualstudio.com/items?itemName=byCedric.vscode-expo) and [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) (both are one click extensions to add) for your VS Code environment.
 
-Next proceed to [setting up](#setting-up).
+Next, proceed to [setting up](#setting-up).
 
 #### Vim
 
@@ -132,6 +132,19 @@ Next, proceed to [setting up](#setting-up).
 ### Setting Up
 
 > This section is a work-in-progress.
+
+1. Clone the [`ChompChomp`](https://github.com/dudesof708/ChompChomp) repository. If you don't know how, please see the [setting up git](../../software/git) guide.
+2. Open Terminal or Command Prompt and navigate to the ChompChomp repository you cloned. Then run
+
+   ```bash
+   npm ci
+   ```
+   
+   This process will take several minutes to complete if you're running for the first time. If you need to update your packages, use the following command instead:
+   
+   ```bash
+   npm i
+   ```
 
 ### Project Structure
 
