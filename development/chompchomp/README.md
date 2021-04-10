@@ -21,6 +21,10 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
     * [iOS Device Setup](#ios-device-setup)
 * [Developing](#developing)
   * [Editor](#editor)
+    * [VS Code](#vs-code)
+    * [Vim](#vim)
+    * [Expo Snack](#expo-snack)
+    * [Xcode](#xcode)
   * [Project Structure](#project-structure)
   * [Making an Edit](#making-an-edit)
 
@@ -75,6 +79,35 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 If you already have an editor you like, jump to [project structure](#project-structure).
 
 ### Editor
+
+> This section is a work-in-progress.
+
+I personally use [VS Code](https://code.visualstudio.com/), but I'm going to try to cover all the potential ways you may want to develop. If you don't already use an editor, download [VS Code](https://code.visualstudio.com/) and head on to the [VS Code section](#vs-code)
+
+Otherwise, pick your editor of choice:
+
+* [VS Code](#vs-code)
+* [Vim](#vim)
+* [Expo Snack](#expo-snack)
+* [Xcode](#xcode)
+
+#### VS Code
+
+> This section is a work-in-progress.
+
+You can download VS Code at [this link](https://code.visualstudio.com/).
+
+#### Vim
+
+> This section is a work-in-progress.
+
+#### Expo Snack
+
+Expo Sanck runs in the browser and basically acts like a Repl.it, if you have used that before. It provides a way to develop and test without leaving your browser. You can acces it [here](https://snack.expo.io/).
+
+It provides all the libraries and tools built-in, and is a conveneint way to develop. It isn't officially supported by ChompChomp but you are free to use this to develop if you wish to sync your changes to `git` manually.
+
+#### Xcode
 
 > This section is a work-in-progress.
 
