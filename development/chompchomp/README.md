@@ -159,7 +159,14 @@ Use an editor of your choice to edit a file, and the commit it. If you don't kno
 
 ### Building the App
 
-Your changes are automatically built whenever you change the version number in `App.json`. Simply bump the minor revision number by 1 and you'll get a build back within the hour. Typically builds on the server take about 20-30 minutes for Android and 10-20 minutes for iOS. iOS builds are currently not supported by the ChompChomp development server, as you get a package back, so you'll need to build iOS manually.
+Your changes are automatically built whenever you change the version number in `app.json`. Simply bump the minor revision number by 1 and you'll get a build back within the hour. Typically builds on the server take about 20-30 minutes for Android and 10-20 minutes for iOS. iOS builds are currently not supported by the ChompChomp development server, as you get a package back, so you'll need to build iOS manually.
+
+*Step by step:*
+
+1. Open the `app.json` file.
+2. Find the version number that says something like 1.0.0.
+3. Change the number so it says 1.0.1.
+4. Save and commit your changes.
 
 To build for iOS and test it on your device as a fully compiled app, head below to [iOS Builds](#ios-builds).
 
