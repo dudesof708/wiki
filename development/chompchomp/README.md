@@ -30,6 +30,7 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
   * [Making an Edit](#making-an-edit)
   * [Testing Your Changes](#testing-your-changes)
   * [Building the App](#building-the-app)
+    * [iOS Builds](#ios-builds)
   * [Deploying Updates](#deploying-updates)
 
 ## Prerequisites
@@ -131,8 +132,6 @@ Next, proceed to [setting up](#setting-up).
 
 ### Setting Up
 
-> This section is a work-in-progress.
-
 1. Clone the [`ChompChomp`](https://github.com/dudesof708/ChompChomp) repository. If you don't know how, please see the [setting up git](../../software/git) guide.
 2. Open Terminal or Command Prompt and navigate to the ChompChomp repository you cloned. Then run
 
@@ -152,13 +151,19 @@ Next, proceed to [setting up](#setting-up).
 
 ### Making an Edit
 
-> This section is a work-in-progress.
+Use an editor of your choice to edit a file, and the commit it. If you don't know how, see the [guide to using git](../../software/git).
 
 ### Testing Your Changes
 
 > This section is a work-in-progress.
 
 ### Building the App
+
+Your changes are automatically built whenever you change the version number in `App.json`. Simply bump the minor revision number by 1 and you'll get a build back within the hour. Typically builds on the server take about 20-30 minutes for Android and 10-20 minutes for iOS. iOS builds are currently not supported by the ChompChomp development server, as you get a package back, so you'll need to build iOS manually.
+
+To build for iOS and test it on your device as a fully compiled app, head below to [iOS Builds](#ios-builds).
+
+#### iOS Builds
 
 > This section is a work-in-progress.
 
