@@ -49,9 +49,9 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 
 #### Android Device Setup
 
-1. Download the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) from the Play Store. Every step after this is ***optional***.
+1. Download the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) app from the Play Store. Every step after this is ***optional***.
 
-**Optional Steps:**
+*Optional Steps:*
 
 1. Download the [Android SDK Platform Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) onto your computer.
 2. Extract the folder to a folder on your computer you won't easily delete, like `C:\Software\platform-tools` on Windows or `/home/<username>/platform-tools` on macOS or Linux.
@@ -64,7 +64,9 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 
 #### iOS Device Setup
 
-> This section is a work-in-progress.
+1. Download the [Expo Go](https://apps.apple.com/us/app/expo-go/id982107779) app from the App Store.
+
+> If you own a Mac, there are additional advanced setup steps you can take advantage of, but they will not be covered in this guide beacuse I don't own a Mac. If you are a Mac user and would like to contribute usage of Xcode or other iOS debugging tools, by all means, please submit an improvement for this section.
 
 ## Developing
 
