@@ -12,18 +12,21 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Website](development/website)
 * [Glossary](glossary)
 * [Projects](projects)
+* [Meta Information](meta)
+  * [Credits](meta/credits)
+  * [Glossary](meta/glossary)
+  * [Task List](meta/tasks)
 * [Software Setup Guides](software)
   * [Unity Setup](software/unity)
     * [Developing in C#](software/unity/code)
     * [Resources to Learn Unity](software/unity/learn)
   * [Git Setup](software/git)
   * [ffmpeg Setup](software/ffmpeg)
-* [Running Task List](tasks)
-  * [ChompChomp Install Guide](tasks/chompchomp)
+
+* [ChompChomp Install Guide](tasks/chompchomp)
 * [Cloud Computing](hosting)
 * [YouTube Reference](youtube)
   * [Wikipedia Speedrunning](youtube/wikipedia)
-* [Credits](credits)
 
 -----
 
