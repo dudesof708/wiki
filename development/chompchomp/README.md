@@ -153,9 +153,7 @@ Next, proceed to [setting up](#setting-up).
 
 #### File Structure
 
-> This section is a work-in-progress.
-
-The project is broken up into a few important folders and files:
+The project is broken up into a few important folders and files (you can click on the names of files and folders to view them):
 
 * [`assets`](https://github.com/dudesof708/ChompChomp/tree/master/assets): Stores asset files, images, icons, and other such static files that remain largely unchanged
 * [`components`](https://github.com/dudesof708/ChompChomp/tree/master/components): Small Javascript files that may be used once or more than once, but do not represent an entire view
