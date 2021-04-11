@@ -7,6 +7,7 @@
 ## Subpages
 
 * [ChompChomp](chompchomp)
+* [ChompChomp Server](chompchomp-server)
 * [Website](website)
 
 -----

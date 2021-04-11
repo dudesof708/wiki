@@ -140,9 +140,9 @@ Next, proceed to [setting up](#setting-up).
    ```bash
    npm ci
    ```
-   
+
    This process will take several minutes to complete if you're running for the first time. If you need to update your packages, use the following command instead:
-   
+
    ```bash
    npm i
    ```
