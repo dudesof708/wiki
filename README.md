@@ -10,7 +10,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [Wikipedia Speedrunning](archive/wikipedia)
 * [Software Development](development)
   * [ChompChomp](development/chompchomp)
-  * [ChompChomp](development/chompchomp-server)
+  * [ChompChomp Server](development/chompchomp-server)
   * [Website](development/website)
 * [Glossary](glossary)
 * [Projects](projects)
