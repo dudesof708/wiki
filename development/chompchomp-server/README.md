@@ -10,9 +10,16 @@
 
 ## Table of Contents
 
+* [Development](#development)
 * [Database Schema](#database-schema)
   * [Schema Descriptions](#schema-descriptions)
   * [Schema Example](#schema-example)
+
+## Development
+
+> This section is a work-in-progress.
+
+The server runs on localhost, port 5050 when run in development mode.
 
 ## Database Schema
 
