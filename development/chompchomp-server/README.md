@@ -12,7 +12,7 @@
 
 * [Database Schema](#database-schema)
   * [Schema Descriptions](#schema-descriptions)
-  * [Sceham Example](#schema-example)
+  * [Schema Example](#schema-example)
 
 ## Database Schema
 
