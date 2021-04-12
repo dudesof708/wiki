@@ -11,6 +11,7 @@
 ## Table of Contents
 
 * [Development](#development)
+* [Getting Started](#getting-started)
 * [Routes](#routes)
   * [Get Item](#get-item)
   * [New Item](#new-item)
