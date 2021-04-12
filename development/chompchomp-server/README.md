@@ -22,6 +22,8 @@
 * [Database Schema](#database-schema)
   * [Schema Descriptions](#schema-descriptions)
   * [Schema Example](#schema-example)
+* [Contributing](#contributing)
+  * [Project Structure](#project-structure)
 
 ## Development
 
@@ -308,3 +310,11 @@ This example follows the schema described above in [schema descriptions](#schema
     ]
 }
 ```
+
+## Contributing
+
+So you want to contribute code, that's great! Here's a brief overview of the project...
+
+### Project Structure
+
+> This section is WIP.
