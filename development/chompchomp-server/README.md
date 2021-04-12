@@ -21,19 +21,77 @@
 
 ## Development
 
-> This section is a work-in-progress.
+The server runs on localhost, port 5050 when run in development mode. This means you can navigate to [http://localhost:5050](http://localhost:5050) to see your server in action.
 
-The server runs on localhost, port 5050 when run in development mode.
+## Getting Started
+
+To install, you'll need Python 3.7 or newer. If you can't figure out how to install Python, maybe it's time to reevalulate if you know what you're doing. (Just kidding, Google it or message the Discord channel.)
+
+For the purposes of this guide, Python will be referred to as `python`. You may have your bindings set to `python3` or `python3.7` if you're using macOS or Linux, or `py -3` or `py -3.7` if you're using Windows.
+
+1. Clone the [`ChompChomp-server`](https://github.com/dudesof708/ChompChomp-server) with git. If you don't know how, see [this guide](../../software/git).
+2. Create a virtual environment:
+
+   ```bash
+   python -m venv venv
+   ```
+
+3. Activate the virtual environment. On Windows, run:
+
+   ```ps
+   .\venv\Scripts\activate
+   ```
+
+   or on Linux or macOS, run:
+
+   ```bash
+   source venv/bin/activate
+   ```
+
+4. Install required dependencies with `pip`. You may need to use `pip3` depending on how you have Python installed.
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Routes
 
+You can test your routes however you want, including by opening a custom build of the app pointing at your computer, but I reccommend [Postman](https://www.postman.com/). It's easy to use and easy to set up.
+
 ### Get Item
+
+`/items/get`: **`GET`** Gets an item from the database
+
+*Requirements:*
+
+* Must provide a parameter `barcode`
+
+Provide a barcode to the database and it will respond with the corresponding object.
+
+*Returns:*
+
+On success, it returns status code `200 OK` with the corresponding item:
+
+```json
+{
+    "barcode": "00000000"
+    ...
+}
+```
+
+On error, it returns status code `400 BAD REQUEST` if no barcode was provided or `404 NOT FOUND` if the barcode does not exist.
+
+```json
+{
+    "error": true
+}
+```
 
 ### New Item
 
-`/items/new`: Takes a new item as a JSON object.
+`/items/new`: **`POST`** Takes a new item as a JSON object.
 
-Requirements:
+*Requirements:*
 
 * POST data must be of raw or text body type but contain a JSON-deserializable input.
 * The `Content-Header` header with data `application/json` is required.
@@ -57,6 +115,24 @@ As an example, the input looks something like this:
     "price": "1.99",
     "weight": "16",
     "barcode": "00000000"
+}
+```
+
+*Returns:*
+
+On success, it returns status code `200 OK` with a success message:
+
+```json
+{
+    "success": true
+}
+```
+
+On error, it returns `400 BAD REQUEST` or `500 INTERNAL SERVER ERROR` depending on the error, with a corresponding error message:
+
+```json
+{
+    "error": "Something happened!"
 }
 ```
 
