@@ -39,7 +39,7 @@ Some notes:
 Schema:
 
 * `barcode`: A string of Trader Joe's internal barcode - according to the International Article Number spec, this should be made up of only integers
-* `barcode_type`: `EAN8` or `EAN13`, if there are other types found, this will be updated
+* `barcode_type`: `EAN8`, `EAN13` or `Unknown`, if there are other types found, this will be updated
 * `name`: String name of product - prefer the long name on tags rather than the short name on receipts due to searachability
 * `price`: Most recent price observed
 * `unit`: What unit the price is sold in, one of `EA` for each, `OZ` for ounces, `LB` for pounds
