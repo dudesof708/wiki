@@ -203,7 +203,40 @@ Example:
 
 **`POST`** `/item/observe`: Adds a price observation to an item
 
-This endpoint hasn't been implemented yet.
+*Requirements:*
+
+* POST data must be of raw or text body type but contain a JSON-deserializable input.
+* The `Content-Header` header with data `application/json` is required.
+* The barcode must already exist in the database.
+
+The input schema is:
+
+* `barcode`: String value containing EAN-8 or EAN-13 barcode value to observe
+* `store`: Store string name as described in the app
+* `date`: Timestamp in ISO 8601 format of observation
+* `price`: Observed price
+
+All inputs are strings. Additional data is ignored.
+
+*Returns:*
+
+The new item is returned with `200 OK` on success (sans images). Example:
+
+```json
+{
+    "barcode": "00000000",
+    ...
+    "images": 3
+}
+```
+
+You may get a `500 INTERNAL SERVER ERROR` if the server can't interpret the data, or `400 BAD REQUEST` if you pass bad data to the server, or a `404 NOT FOUND` if the barcode doesn't already exist in the server. The corresponding return data is a descriptive error of what went wrong, like:
+
+```json
+{
+    "error": "Something happened!"
+}
+```
 
 ### Add Image
 
