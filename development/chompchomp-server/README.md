@@ -14,6 +14,7 @@
 * [Routes](#routes)
   * [Get Item](#get-item)
   * [New Item](#new-item)
+  * [Edit Item](#edit-item)
   * [Observe Item](#observe-item)
 * [Database Schema](#database-schema)
   * [Schema Descriptions](#schema-descriptions)
@@ -57,6 +58,13 @@ For the purposes of this guide, Python will be referred to as `python`. You may 
 ## Routes
 
 You can test your routes however you want, including by opening a custom build of the app pointing at your computer, but I reccommend [Postman](https://www.postman.com/). It's easy to use and easy to set up.
+
+There are four routes
+
+* `GET` [Get Item](#get-item)
+* `POST` [New Item](#new-item)
+* `POST` [Edit Item](#edit-item)
+* `POST` [Observe Item](#observe-item)
 
 ### Get Item
 
@@ -135,6 +143,12 @@ On error, it returns `400 BAD REQUEST` or `500 INTERNAL SERVER ERROR` depending 
     "error": "Something happened!"
 }
 ```
+
+### Edit Item
+
+**`POST`** `/item/edit`: Edits an item
+
+This endpoint hasn't been implemented yet.
 
 ### Observe Item
 
