@@ -11,6 +11,10 @@
 ## Table of Contents
 
 * [Development](#development)
+* [Routes](#routes)
+  * [Get Item](#get-item)
+  * [New Item](#new-item)
+  * [Observe Item](#observe-item)
 * [Database Schema](#database-schema)
   * [Schema Descriptions](#schema-descriptions)
   * [Schema Example](#schema-example)
@@ -20,6 +24,14 @@
 > This section is a work-in-progress.
 
 The server runs on localhost, port 5050 when run in development mode.
+
+## Routes
+
+### Get Item
+
+### New Item
+
+### Observe Item
 
 ## Database Schema
 
