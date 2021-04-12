@@ -138,6 +138,10 @@ On error, it returns `400 BAD REQUEST` or `500 INTERNAL SERVER ERROR` depending 
 
 ### Observe Item
 
+`/item/observe`: Adds a price observation to an item
+
+This endpoint hasn't been implemented yet.
+
 ## Database Schema
 
 Although there are different ways to store the data, i.e. a custom rolled database structure, document-like structure as with no-SQL databases, or tables as with SQL-like databases, it will be documented here as a document-like structure. This makes it easier to read.
