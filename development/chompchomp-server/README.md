@@ -31,6 +31,35 @@ The server runs on localhost, port 5050 when run in development mode.
 
 ### New Item
 
+`/items/new`: Takes a new item as a JSON object.
+
+Requirements:
+
+* POST data must be of raw or text body type but contain a JSON-deserializable input.
+* The `Content-Header` header with data `application/json` is required.
+
+The input schema is:
+
+* `date`: ISO 8601-compatiable timestamp
+* `store`: String containing store number, city, and state code
+* `name`: String containing name of product
+* `price`: String containing float value of price
+* `weight`: String containing float value of weight in oz.
+* `barcode`: String value containing EAN-8 or EAN-13 barcode value
+
+As an example, the input looks something like this:
+
+```json
+{
+    "date": "2021-04-12T02:48:56.813Z",
+    "store": "7 West Los Angeles, CA",
+    "name": "Cheese Wheel",
+    "price": "1.99",
+    "weight": "16",
+    "barcode": "00000000"
+}
+```
+
 ### Observe Item
 
 ## Database Schema
