@@ -29,7 +29,14 @@ Click [here](#schema-descriptions) to read about descriptions or [here](#schema-
 
 ### Schema Descriptions
 
-This is the schema of database objects stored on the server. In SQL format, subkeys, such as the prices array, is stored as a large JSON serializable object.
+This is the schema of database objects stored on the server.
+
+Some notes:
+
+* In SQL format, subkeys, such as the prices array, is stored as a large JSON serializable object.
+* Items without barcodes are not currently stored in the cache. This handling may be added later.
+
+Schema:
 
 * `barcode`: A string of Trader Joe's internal barcode - according to the International Article Number spec, this should be made up of only integers
 * `barcode_type`: `EAN8` or `EAN13`, if there are other types found, this will be updated
