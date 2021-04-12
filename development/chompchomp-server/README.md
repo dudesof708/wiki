@@ -16,6 +16,8 @@
   * [New Item](#new-item)
   * [Edit Item](#edit-item)
   * [Observe Item](#observe-item)
+  * [Add Image](#add-image)
+  * [Get Images](#get-images)
 * [Database Schema](#database-schema)
   * [Schema Descriptions](#schema-descriptions)
   * [Schema Example](#schema-example)
@@ -65,6 +67,8 @@ There are four routes
 * `POST` [New Item](#new-item)
 * `POST` [Edit Item](#edit-item)
 * `POST` [Observe Item](#observe-item)
+* `POST` [Add Image](#add-image)
+* `GET` [Get Images](#get-images)
 
 ### Get Item
 
@@ -78,13 +82,13 @@ Provide a barcode to the database and it will respond with the corresponding obj
 
 *Returns:*
 
-On success, it returns status code `200 OK` with the corresponding item:
+On success, it returns status code `200 OK` with the corresponding item, except the images is replaced with the number of images:
 
 ```json
 {
-    "barcode": "00000000"
+    "barcode": "00000000",
     ...
-}
+    "images": 3
 ```
 
 On error, it returns status code `400 BAD REQUEST` if no barcode was provided or `404 NOT FOUND` if the barcode does not exist.
@@ -148,13 +152,94 @@ On error, it returns `400 BAD REQUEST` or `500 INTERNAL SERVER ERROR` depending 
 
 **`POST`** `/item/edit`: Edits an item
 
-This endpoint hasn't been implemented yet.
+*Requirements:*
+
+* POST data must be of raw or text body type but contain a JSON-deserializable input.
+* The `Content-Header` header with data `application/json` is required.
+* The barcode must already exist in the database.
+
+The input schema is:
+
+* `barcode`: String value containing EAN-8 or EAN-13 barcode value to update
+* `name`: (optional) Name to update
+* `unit`: (optional) Update units
+* `weight`: (optional) New weight to update to
+
+As an example, here is something you can provide:
+
+```json
+{
+    "barcode": "00000000",
+    "weight": "16"
+}
+```
+
+*Returns:*
+
+The server returns status code `200 OK` with the new item (sans images) if successful, like so:
+
+```json
+{
+    "barcode": "00000000",
+    ...
+    "images": 3
+}
+```
+
+If the input was invalid, the server returns `400 BAD REQUEST` with the corresponding error message or `500 SERVER ERROR` if the input was unexpected. If the barcode does not exist, the server returns `404 NOT FOUND` instead.
+
+Example:
+
+```json
+{
+    "error": "Something happened!"
+}
+```
 
 ### Observe Item
 
 **`POST`** `/item/observe`: Adds a price observation to an item
 
 This endpoint hasn't been implemented yet.
+
+### Add Image
+
+**`POST`** `/item/images/add`: Add an image to the database
+
+This endpoint hasn't been implemented yet.
+
+### Get Images
+
+**`GET`** `/item/images/get`: Get images from the database
+
+*Requirements:*
+
+* Must provide a barcode as a parameter as `barcode`
+
+Provide the barcode to the database and it will return an array of images according to the spec as they are stored in the database.
+
+*Returns:*
+
+On success, it returns status code `200 OK` with images. Example:
+
+```json
+[
+    {
+        "type": "base64/png",
+        "data": "data:image/png;base64,..."
+    },
+    {
+        "type": "base64/jpeg",
+        "data": "data:image/jpeg;base64,..."
+    },
+    {
+        "type": "uri",
+        "data": "https://i.imgur.com/2dn06CW.png"
+    }
+]
+```
+
+It may return `404 NOT FOUND` if the barcode doesn't exist and `400 BAD REQUEST` if no barcode was provided. If there are no images, it returns an empty array.
 
 ## Database Schema
 
