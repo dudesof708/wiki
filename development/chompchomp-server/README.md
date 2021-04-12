@@ -64,7 +64,7 @@ For the purposes of this guide, Python will be referred to as `python`. You may 
 
 You can test your routes however you want, including by opening a custom build of the app pointing at your computer, but I reccommend [Postman](https://www.postman.com/). It's easy to use and easy to set up.
 
-There are four routes
+There are six routes
 
 * `GET` [Get Item](#get-item)
 * `POST` [New Item](#new-item)
