@@ -60,7 +60,7 @@ You can test your routes however you want, including by opening a custom build o
 
 ### Get Item
 
-`/items/get`: **`GET`** Gets an item from the database
+**`GET`** `/items/get`: Gets an item from the database
 
 *Requirements:*
 
@@ -89,7 +89,7 @@ On error, it returns status code `400 BAD REQUEST` if no barcode was provided or
 
 ### New Item
 
-`/items/new`: **`POST`** Takes a new item as a JSON object.
+**`POST`** `/items/new`: Takes a new item as a JSON object.
 
 *Requirements:*
 
@@ -138,7 +138,7 @@ On error, it returns `400 BAD REQUEST` or `500 INTERNAL SERVER ERROR` depending 
 
 ### Observe Item
 
-`/item/observe`: Adds a price observation to an item
+**`POST`** `/item/observe`: Adds a price observation to an item
 
 This endpoint hasn't been implemented yet.
 
