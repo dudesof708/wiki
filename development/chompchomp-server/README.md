@@ -45,7 +45,7 @@ Schema:
 * `unit`: What unit the price is sold in, one of `EA` for each, `OZ` for ounces, `LB` for pounds
 * `weight`: Floating point net weight of product in ounces
 * `prices`: Observed prices of products - array of dictionaries
-  * `store`: Integer Trader Joe's store number
+  * `store`: Integer Trader Joe's store number, or -1 if unknown or not assigned
   * `date`: String representation of date when this price was observed in `YYYY/MM/DD` format
   * `price`: Floating point price
 * `images`: Array of dictionaries
