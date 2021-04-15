@@ -13,6 +13,7 @@
 * [Development](#development)
 * [Getting Started](#getting-started)
 * [Routes](#routes)
+  * [Check Item](#check-item)
   * [Get Item](#get-item)
   * [New Item](#new-item)
   * [Edit Item](#edit-item)
@@ -66,12 +67,41 @@ You can test your routes however you want, including by opening a custom build o
 
 There are six routes
 
+* `GET` [Check Item](#check-item)
 * `GET` [Get Item](#get-item)
 * `POST` [New Item](#new-item)
 * `POST` [Edit Item](#edit-item)
 * `POST` [Observe Item](#observe-item)
 * `POST` [Add Image](#add-image)
 * `GET` [Get Images](#get-images)
+
+### Check Item
+
+**`GET`** `/items/exists`: Checks if an item exists in the database
+
+*Requirements:*
+
+* Must provide a parameter `barcode`
+
+Provide a barcode to the database and it will tell you if it exists.
+
+*Returns:*
+
+If the item exists: status code `200 OK` and:
+
+```json
+{
+    "exists": true
+}
+```
+
+If the item does not exist: status code `404 NOT FOUND` and:
+
+```json
+{
+    "exists": false
+}
+```
 
 ### Get Item
 
