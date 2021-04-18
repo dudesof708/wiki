@@ -64,13 +64,22 @@ You can go the [table of contents](#table-of-contents) in order to jump to any s
    npm i expo-cli --global
    ```
 
+2. Log in to expo with the command:
+
+   ```bash
+   expo login
+   ```
+
+   This will bring up a page in your web browser where you can either login or create an account on Expo's servers. Join the Dudes of 708 development team (owner: Gideon Tong).
+
 ### Device Setup
 
 If you have an Android device, jump to the [Android device setup](#android-device-setup) section. If you have an iOS device, jump to the [iOS device setup](#ios-device-setup) section. You can set up both if you have both.
 
 #### Android Device Setup
 
-1. Download the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) app from the Play Store. Every step after this is ***optional***.
+1. Download the [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) app from the Play Store.
+2. Log into your Expo account. Every step after this is ***optional***.
 
 ![Expo Go on the Play Store](https://i.imgur.com/9ieXXvy.png)
 
@@ -88,6 +97,7 @@ If you have an Android device, jump to the [Android device setup](#android-devic
 #### iOS Device Setup
 
 1. Download the [Expo Go](https://apps.apple.com/us/app/expo-go/id982107779) app from the App Store.
+2. Log into your Expo account.
 
 > If you own a Mac, there are additional advanced setup steps you can take advantage of, but they will not be covered in this guide beacuse I don't own a Mac. If you are a Mac user and would like to contribute usage of Xcode or other iOS debugging tools, by all means, please submit an improvement for this section.
 
@@ -261,7 +271,11 @@ Use an editor of your choice to edit a file, and the commit it. If you don't kno
 
 ### Testing Your Changes
 
-> This section is a work-in-progress.
+Run this command to start the development server:
+
+```bash
+expo start
+```
 
 ### Building the App
 
