@@ -36,6 +36,7 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
   * [Testing Your Changes](#testing-your-changes)
   * [Building the App](#building-the-app)
     * [iOS Builds](#ios-builds)
+    * [Android Builds](#android-builds)
   * [Deploying Updates](#deploying-updates)
 
 ## Prerequisites
@@ -200,6 +201,35 @@ An example is below:
 
 ```json
 [
+  {
+    "type": "new",
+    "payload": {
+      "date": "2021-04-18T22:34:11.088180+00:00",
+      "store": "7 West Los Angeles, CA",
+      "name": "String Cheese",
+      "price": "1.99",
+      "weight": "16",
+      "barcode": "01234567"
+    }
+  },
+  {
+    "type": "update",
+    "payload": {
+      "barcode": "87654321",
+      "store": "65 Danville, CA",
+      "date": "2021-04-19T22:34:29.089034+00:00",
+      "price": "2.99"
+    }
+  },
+  {
+    "type": "quick",
+    "payload": {
+      "barcode": "55555555",
+      "images": [
+        ...
+      ]
+    }
+  }
 ]
 ```
 
@@ -238,9 +268,13 @@ Your changes are automatically built whenever you change the version number in `
 3. Change the number so it says 1.0.1.
 4. Save and commit your changes.
 
-To build for iOS and test it on your device as a fully compiled app, head below to [iOS Builds](#ios-builds).
+To build for iOS and test it on your device as a fully compiled app, head below to [iOS Builds](#ios-builds). To build it for Android instead, head below to [Android Builds](#android-builds).
 
 #### iOS Builds
+
+> This section is a work-in-progress.
+
+#### Android Builds
 
 > This section is a work-in-progress.
 
