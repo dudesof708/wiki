@@ -161,16 +161,22 @@ The project is broken up into a few important folders and files (you can click o
 
 * [`assets`](https://github.com/dudesof708/ChompChomp/tree/master/assets): Stores asset files, images, icons, and other such static files that remain largely unchanged
 * [`components`](https://github.com/dudesof708/ChompChomp/tree/master/components): Small Javascript files that may be used once or more than once, but do not represent an entire view
+  * [`ErrorDialog.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/ErrorDialog.js): Dialog box for errors
+  * [`LoadingDialog.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/LoadingDialog.js): Loading dialog box
+  * [`OfflineBanner.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/OfflineBanner.js): Banner that shows an alert if you are offline
+  * [`SmallOfflineBanner.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/SmallOfflineBanner.js): Small offline banner for specific item adding screens
   * [`StoreSelector.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/StoreSelector.js): The dialog box that allows you to select a store
   * [`UploadErrorDialog.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/UploadErrorDialog.js): The dialog box that shows up when the upload fails
-  * [`UploadingDialog.js`](https://github.com/dudesof708/ChompChomp/blob/master/components/UploadingDialog.js): The dialog box that shows up while you are uploading
 * [`config`](https://github.com/dudesof708/ChompChomp/tree/master/config): Config files for various parts of the app
 * [`views`](https://github.com/dudesof708/ChompChomp/tree/master/views): Different screens for the app
+  * [`CameraScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/CameraScreen.js): Screen for taking photos
+  * [`ConfigScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/ConfigScreen.js): Screen for changing settings
+  * [`HistoryScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/HistoryScreen.js): Screen for looking at your upload history
   * [`HomeScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/HomeScreen.js): The home screen
-  * [`NewItemScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/NewItemScreen.js): Screen to create a new item
-  * [`PhotoScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/PhotoScreen.js): Screen to take and upload images of the product
+  * [`ItemUploadScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/ItemUploadScreen.js): Screen to create a new item or add data about an existing item
+  * [`QueueScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/QueueScreen.js): Screen to check items you've yet to upload
+  * [`QuickAddScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/QuickAddScreen.js): Screen if you don't want to add data while walking around
   * [`ScannerScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/ScannerScreen.js): Screen for scanning barcodes
-  * [`UploadsScreen.js`](https://github.com/dudesof708/ChompChomp/blob/master/views/UploadsScreen.js): Screen for seeing your uploads history
 * [`App.js`](https://github.com/dudesof708/ChompChomp/blob/master/App.js): Main entrypoint of the app, defines the screens of the app
 * [`app.json`](https://github.com/dudesof708/ChompChomp/blob/master/app.json): App definition file
 
