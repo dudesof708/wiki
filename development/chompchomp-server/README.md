@@ -91,7 +91,7 @@ If the item exists: status code `200 OK` and:
 
 ```json
 {
-    "exists": true
+  "exists": true
 }
 ```
 
@@ -99,7 +99,7 @@ If the item does not exist: status code `404 NOT FOUND` and:
 
 ```json
 {
-    "exists": false
+  "exists": false
 }
 ```
 
@@ -119,16 +119,17 @@ On success, it returns status code `200 OK` with the corresponding item, except 
 
 ```json
 {
-    "barcode": "00000000",
-    ...
-    "images": 3
+  "barcode": "00000000",
+  ...
+  "images": 3
+}
 ```
 
 On error, it returns status code `400 BAD REQUEST` if no barcode was provided or `404 NOT FOUND` if the barcode does not exist.
 
 ```json
 {
-    "error": true
+  "error": true
 }
 ```
 
@@ -154,12 +155,12 @@ As an example, the input looks something like this:
 
 ```json
 {
-    "date": "2021-04-12T02:48:56.813Z",
-    "store": "7 West Los Angeles, CA",
-    "name": "Cheese Wheel",
-    "price": "1.99",
-    "weight": "16",
-    "barcode": "00000000"
+  "date": "2021-04-12T02:48:56.813Z",
+  "store": "7 West Los Angeles, CA",
+  "name": "Cheese Wheel",
+  "price": "1.99",
+  "weight": "16",
+  "barcode": "00000000"
 }
 ```
 
@@ -169,7 +170,7 @@ On success, it returns status code `200 OK` with a success message:
 
 ```json
 {
-    "success": true
+  "success": true
 }
 ```
 
@@ -177,7 +178,7 @@ On error, it returns `400 BAD REQUEST` or `500 INTERNAL SERVER ERROR` depending 
 
 ```json
 {
-    "error": "Something happened!"
+  "error": "Something happened!"
 }
 ```
 
@@ -202,8 +203,8 @@ As an example, here is something you can provide:
 
 ```json
 {
-    "barcode": "00000000",
-    "weight": "16"
+  "barcode": "00000000",
+  "weight": "16"
 }
 ```
 
@@ -213,9 +214,9 @@ The server returns status code `200 OK` with the new item (sans images) if succe
 
 ```json
 {
-    "barcode": "00000000",
-    ...
-    "images": 3
+  "barcode": "00000000",
+  ...
+  "images": 3
 }
 ```
 
@@ -225,7 +226,7 @@ Example:
 
 ```json
 {
-    "error": "Something happened!"
+  "error": "Something happened!"
 }
 ```
 
@@ -254,9 +255,9 @@ The new item is returned with `200 OK` on success (sans images). Example:
 
 ```json
 {
-    "barcode": "00000000",
-    ...
-    "images": 3
+  "barcode": "00000000",
+  ...
+  "images": 3
 }
 ```
 
@@ -264,7 +265,7 @@ You may get a `500 INTERNAL SERVER ERROR` if the server can't interpret the data
 
 ```json
 {
-    "error": "Something happened!"
+  "error": "Something happened!"
 }
 ```
 
@@ -290,18 +291,18 @@ On success, it returns status code `200 OK` with images. Example:
 
 ```json
 [
-    {
-        "type": "base64/png",
-        "data": "data:image/png;base64,..."
-    },
-    {
-        "type": "base64/jpeg",
-        "data": "data:image/jpeg;base64,..."
-    },
-    {
-        "type": "uri",
-        "data": "https://i.imgur.com/2dn06CW.png"
-    }
+  {
+    "type": "base64/png",
+    "data": "data:image/png;base64,..."
+  },
+  {
+    "type": "base64/jpeg",
+    "data": "data:image/jpeg;base64,..."
+  },
+  {
+    "type": "uri",
+    "data": "https://i.imgur.com/2dn06CW.png"
+  }
 ]
 ```
 
@@ -344,33 +345,33 @@ This example follows the schema described above in [schema descriptions](#schema
 
 ```json
 {
-    "barcode": "00000000",
-    "barcode_type": "EAN8",
-    "name": "Cheese Wheel",
-    "price": 1.99,
-    "unit": "EA",
-    "weight": 16,
-    "prices": [
-        {
-            "store": 100,
-            "date": "2021/01/01",
-            "price": 1.99
-        }
-    ],
-    "images": [
-        {
-            "type": "base64/png",
-            "data": "data:image/png;base64,..."
-        },
-        {
-            "type": "base64/jpeg",
-            "data": "data:image/jpeg;base64,..."
-        },
-        {
-            "type": "uri",
-            "data": "https://i.imgur.com/2dn06CW.png"
-        }
-    ]
+  "barcode": "00000000",
+  "barcode_type": "EAN8",
+  "name": "Cheese Wheel",
+  "price": 1.99,
+  "unit": "EA",
+  "weight": 16,
+  "prices": [
+    {
+      "store": 100,
+      "date": "2021/01/01",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "type": "base64/png",
+      "data": "data:image/png;base64,..."
+    },
+    {
+      "type": "base64/jpeg",
+      "data": "data:image/jpeg;base64,..."
+    },
+    {
+      "type": "uri",
+      "data": "https://i.imgur.com/2dn06CW.png"
+    }
+  ]
 }
 ```
 
