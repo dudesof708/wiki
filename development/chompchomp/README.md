@@ -118,6 +118,8 @@ Otherwise, pick your editor of choice:
 
 #### VS Code
 
+![VS Code](https://i.imgur.com/mwHT7ZV.png)
+
 You can download VS Code at [this link](https://code.visualstudio.com/). Thankfully, because VS Code is designed as an Electron app, it provides Javascript/Typescript extensions, debugging, and IntelliSense out of the box. ChompChomp is written in pure Javascript with React extensions, and does not support Typescript at this time.
 
 This is really all you need, but you should set up [Expo Tools](https://marketplace.visualstudio.com/items?itemName=byCedric.vscode-expo) and [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) (both are one click extensions to add) for your VS Code environment.
@@ -126,9 +128,15 @@ Next, proceed to [setting up](#setting-up).
 
 #### Vim
 
+![Vim](https://i.imgur.com/Jx1F46g.png)
+
 Why are you reading this if you already know your way around Vim? Set it up for JavaScript/TypeScript bindings and you'll be fine. Next, proceed to [setting up](#setting-up).
 
 #### Expo Snack
+
+![Expo Snack](https://i.imgur.com/cTgvHYw.png)
+
+> This isn't actually a screenshot of the code, but this is Expo Snack.
 
 Expo Snack runs in the browser and basically acts like a Repl.it, if you have used that before. It provides a way to develop and test without leaving your browser. You can access it [here](https://snack.expo.io/).
 
