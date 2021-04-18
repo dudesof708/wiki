@@ -6,8 +6,6 @@
 
 -----
 
-> This is currently a work-in-progress guide. Please feel free to contribute to it.
-
 Congratulations! So you want to get involved in ChompChomp's development. Your contributions will be greatly appreciated.
 
 ## Table of Contents
@@ -292,12 +290,28 @@ To build for iOS and test it on your device as a fully compiled app, head below 
 
 #### iOS Builds
 
-> This section is a work-in-progress.
+> Warning: You can only build iOS builds on macOS.
+
+Run the following command:
+
+```bash
+expo build:ios
+```
+
+This builds an IPA for distribution on Expo's servers, which will take approximately 5-30 minutes. We do not currently have a macOS development server, and are looking to fundraise some money to host such a server.
+
+You will be able to use this IPA provided you are either in the team (and have access to the development account), or you have your own development account.
 
 #### Android Builds
 
-> This section is a work-in-progress.
+Run the following command:
+
+```bash
+expo build:android -t apk
+```
+
+This builds an APK for distribution on Expo's servers, which will take approximately 5-30 minutes. If you'd like to use the Dudes of 708 development server instead, please contact Gideon for the server information and additional setup instructions.
 
 ### Deploying Updates
 
-> This section is a work-in-progress.
+Upload the new build to the Dudes of 708 Google Drive in the format for iOS builds: `ChompChomp-vX.X.X-archive.ipa` or for Android builds: `ChompChomp-vX.X.X-signed.apk`. The build will be automatically deployed. Ensure you do not overwrite an existing file, because then the build will not be deployed.
