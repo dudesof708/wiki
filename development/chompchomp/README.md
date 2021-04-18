@@ -29,6 +29,9 @@ Congratulations! So you want to get involved in ChompChomp's development. Your c
   * [Project Structure](#project-structure)
     * [File Structure](#file-structure)
     * [Code Structure](#code-structure)
+    * [Data Storage Format](#data-storage-format)
+      * [Queue](#queue-data)
+      * [History](#history-data)
   * [Making an Edit](#making-an-edit)
   * [Testing Your Changes](#testing-your-changes)
   * [Building the App](#building-the-app)
@@ -181,6 +184,40 @@ A quick overview of the way our code is structured:
 **Components** appear in the `components` folder and represent parts of views that may or may not be reused. This can include selection boxes, dialog boxes, repeated text input boxes, etc.
 
 **Views** appear in the `views` folder, and there is one file/function for every view that appears in the app. Each one is linked to the `App.js` file.
+
+#### Data Storage Format
+
+The app stores a few pieces of information
+
+##### Queue Data
+
+Queue data is stored in the key `queue` and is stored as a JSON string array. Each element is a JSON object containing several keys:
+
+* `type`: One of `new`, `update`, or `quick`. New items contain full information, updates contain only the barcode, store, and price, and quick items contain only barcode and images.
+* `payload`: The relevant payload to upload.
+
+An example is below:
+
+```json
+[
+]
+```
+
+##### History Data
+
+History data is stored in the key `history` and is stored as a JSON string array. Each element is a string containing the name of the item uploaded to the database. If there is more than the maximum in the list, the oldest is pushed off the list (it behaves as a queue).
+
+An example is below:
+
+```json
+[
+  "String Cheese",
+  "Cheddar Cheese",
+  "Mozarella Cheese",
+  "American Cheese",
+  "Feta Cheese"
+]
+```
 
 ### Making an Edit
 
