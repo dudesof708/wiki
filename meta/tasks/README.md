@@ -27,11 +27,17 @@ For current status of tasks, please see the [kanban board](https://github.com/or
   * *Suggested tools:* Google Sheets
   * *Suggested programming languages:* Python
   * *Suggested libraries:* requests, BeautifulSoup4
-* Create a light pollution map app for mobile devices, cross-platform for both iOS and Android.
-  * *Suggested tools:* Expo, Git
-  * *Suggested programming languages:* Javascript
-  * *Suggested libraries:* React, React Native
 * CheeseHub: A hub to see all kinds of cheese, like black cheese, mixed cheese, HD cheese, cheese toys, anime cheese, and more.
   * *Suggested tools:* Git
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* Bootstrap 5
+* Create an astronomy app for mobile devices, cross-platform for both iOS and Android. It should be simple and easy to use, support dark mode, and have the following features:
+  * Map of light pollution
+  * Built-in planetarium to locate things in the night sky
+  * Weather and cloud cover forecasts
+  * Calculate and plot the angle of the sun and moon
+  * Calculate depth of field and hyperfocal distances
+
+  * *Suggested tools:* Expo, Git
+  * *Suggested programming languages:* Javascript
+  * *Suggested libraries:* React, React Native
