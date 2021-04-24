@@ -17,3 +17,7 @@ For current status of tasks, please see the [kanban board](https://github.com/or
   * *Suggested tools:* Google Sheets
   * *Suggested programming languages:* Python
   * *Suggested libraries:* requests, BeautifulSoup4
+* Create a light pollution map app for mobile devices, cross-platform for both iOS and Android.
+  * *Suggested tools:* Expo, VS Code
+  * *Suggested programming languages:* Javascript
+  * *Suggested libraries:* React, React Native
