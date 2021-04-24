@@ -18,23 +18,23 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ### Week 3 (June 28th-July 2nd)
 
-### Week 4 (July 5th-July 9th)
+### Week 4 (July 5th-9th)
 
-### Week 5
+### Week 5 (July 12th-16th)
 
-### Week 6
+### Week 6 (July 19th-23rd)
 
-### Week 7
+### Week 7 (July 26th-30th)
 
-### Week 8
+### Week 8 (August 2nd-6th)
 
-### Week 9
+### Week 9 (August 9th-13th)
 
-### Week 10
+### Week 10 (August 16th-20th)
 
-### Week 11
+### Week 11 (August 23rd-27th)
 
-### Week 12
+### Week 12 (August 30th-September 3rd)
 
 ## In Progress
 
