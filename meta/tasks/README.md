@@ -14,6 +14,8 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ### Week 1 (June 14th-18th)
 
+* Add a job posting for a software engineering intern to the Dudes of 708 website
+* Find a template for a privacy policy and add it to the Dudes of 708 website
 * Collect Trader Joe's prices for ChompChomp, if possible
 
 ### Week 2 (June 21st-25th)
