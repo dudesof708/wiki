@@ -78,10 +78,6 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggseted tools:* Expo, Git
   * *Suggested programming languages:* Javascript
   * *Suggested libraries:* React, React Native
-* Compile a list of top creators on OnlyFans, with any other social media handles they may have (Snapchat, Instagram, etc.). Aim for at least 1,000 creators. Return as a formatted spreadsheet. This can be done by hand via "research" or automated.
-  * *Suggested tools:* Google Sheets
-  * *Suggested programming languages:* Python
-  * *Suggested libraries:* requests, BeautifulSoup4
 * CheeseHub: A hub to see all kinds of cheese, like black cheese, mixed cheese, HD cheese, cheese toys, anime cheese, and more.
   * *Suggested tools:* Git
   * *Suggested programming languages:* HTML, CSS
