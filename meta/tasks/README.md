@@ -6,9 +6,14 @@
 
 -----
 
-For current status of tasks, please see the [kanban board](https://github.com/orgs/dudesof708/projects/3).
+For current status of tasks, please see the [kanban board](https://github.com/orgs/dudesof708/projects/3). Tasks are listed in order of priority.
+
+## In Progress
 
 * Collect information about prices of items in Trader Joe's. Please upload new data via the ChompChomp app. If you need help installing the app, please see the [guide on the wiki](../../software/chompchomp/).
+
+## To Do
+
 * Update the Dudes of 708 website. Add a job posting for a software engineering intern, add information regarding each of our projects, and add a privacy policy.
   * *Suggested tools:* Git
   * *Suggested programming languages:* HTML, CSS
