@@ -14,27 +14,51 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ### Week 1 (June 14th-18th)
 
+* Collect Trader Joe's prices for ChompChomp, if possible
+
 ### Week 2 (June 21st-25th)
+
+* Collect Trader Joe's prices for ChompChomp, if possible
 
 ### Week 3 (June 28th-July 2nd)
 
+* Collect Trader Joe's prices for ChompChomp, if possible
+
 ### Week 4 (July 5th-9th)
+
+* Collect Trader Joe's prices for ChompChomp, if possible
 
 ### Week 5 (July 12th-16th)
 
+* Collect Trader Joe's prices for ChompChomp, if possible
+
 ### Week 6 (July 19th-23rd)
+
+* Collect Trader Joe's prices for ChompChomp, if possible
 
 ### Week 7 (July 26th-30th)
 
+* Collect Trader Joe's prices for ChompChomp, if possible
+
 ### Week 8 (August 2nd-6th)
+
+* Collect Trader Joe's prices for ChompChomp, if possible
 
 ### Week 9 (August 9th-13th)
 
+* Collect Trader Joe's prices for ChompChomp, if possible
+
 ### Week 10 (August 16th-20th)
+
+* Collect Trader Joe's prices for ChompChomp, if possible
 
 ### Week 11 (August 23rd-27th)
 
+* Collect Trader Joe's prices for ChompChomp, if possible
+
 ### Week 12 (August 30th-September 3rd)
+
+* Collect Trader Joe's prices for ChompChomp, if possible
 
 ## In Progress
 
