@@ -8,6 +8,34 @@
 
 For current status of tasks, please see the [kanban board](https://github.com/orgs/dudesof708/projects/3). Tasks are listed in order of priority.
 
+## Summer
+
+Summer runs for 14 weeks, from June 14th to September 17th. We can assume that work will be done for the first 12 weeks, from June 14th to September 10th. Here is an outline for each week:
+
+### Week 1 (June 14th-18th)
+
+### Week 2 (June 21st-25th)
+
+### Week 3 (June 28th-July 2nd)
+
+### Week 4 (July 5th-July 9th)
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
+
+### Week 9
+
+### Week 10
+
+### Week 11
+
+### Week 12
+
 ## In Progress
 
 * Collect information about prices of items in Trader Joe's. Please upload new data via the ChompChomp app. If you need help installing the app, please see the [guide on the wiki](../../software/chompchomp/).
