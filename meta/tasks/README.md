@@ -71,18 +71,18 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 ## To Do
 
 * Update the Dudes of 708 website. Add a job posting for a software engineering intern, add information regarding each of our projects, and add a privacy policy.
-  * *Suggested tools:* Git
+  * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* Bootstrap 5
 * Update the ChompChomp app and server. More information to come soon (based on how much is finished before the summer starts).
-  * *Suggseted tools:* Expo, Git
+  * *Suggseted tools:* Expo, [Git](../../software/git/)
   * *Suggested programming languages:* Javascript, Python
   * *Suggested libraries:* React, React Native, Flask
 * Prepare a frontend and a backend for Project Sputnik. Achieve to develop as much as possible. More information to come soon (based on how much is finished before the summer starts).
-  * *Suggested tools:* Expo, Git
+  * *Suggested tools:* Expo, [Git](../../software/git/)
   * *Suggested programming languages:* Python, Javascript, HTML, CSS
   * *Suggseted libraries:* Flask, React, React Native, Bootstrap 5
 * CheeseHub: A hub to see all kinds of cheese, like black cheese, mixed cheese, HD cheese, cheese toys, anime cheese, and more. Create a backend that serves photos of cheese using a CDN and a frontend via some cross-platform web development.
-  * *Suggested tools:* Git
+  * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* Python, Javascript, HTML, CSS
   * *Suggested libraries:* Flask, React, React Native, Bootstrap 5
