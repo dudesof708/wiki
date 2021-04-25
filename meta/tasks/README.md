@@ -75,15 +75,19 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggested tools:* Git
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* Bootstrap 5
-* Update the ChompChomp app and server. More information to come soon.
+* Update the ChompChomp app and server. More information to come soon (based on how much is finished before the summer starts).
   * *Suggseted tools:* Expo, Git
   * *Suggested programming languages:* Javascript, Python
   * *Suggested libraries:* React, React Native, Flask
+* Prepare a frontend and a backend for Project Sputnik. Achieve to develop as much as possible. More information to come soon (based on how much is finished before the summer starts).
+  * *Suggested tools:* Expo, Git
+  * *Suggested programming languages:* Python, Javascript, HTML, CSS
+  * *Suggseted libraries:* Flask, React, React Native, Bootstrap 5
 * CheeseHub: A hub to see all kinds of cheese, like black cheese, mixed cheese, HD cheese, cheese toys, anime cheese, and more. Create a backend that serves photos of cheese using a CDN and a frontend via some cross-platform web development.
   * *Suggested tools:* Git
   * *Suggested programming languages:* Python, Javascript, HTML, CSS
   * *Suggested libraries:* Flask, React, React Native, Bootstrap 5
-* Create an astronomy app for mobile devices, cross-platform for both iOS and Android. It should be simple and easy to use, support dark mode, and have the following features:
+* (This is an extra project you are unlikely to get to.) Create an astronomy app for mobile devices, cross-platform for both iOS and Android. It should be simple and easy to use, support dark mode, and have the following features:
   * Map of light pollution
   * Built-in planetarium to locate things in the night sky
   * Weather and cloud cover forecasts
