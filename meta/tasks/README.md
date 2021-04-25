@@ -10,7 +10,7 @@ For current status of tasks, please see the [kanban board](https://github.com/or
 
 ## Summer
 
-Summer runs for 14 weeks, from June 14th to September 17th. We can assume that work will be done for the first 12 weeks, from June 14th to September 10th. Here is an outline for each week:
+Summer runs for 14 weeks, from June 14th to September 17th. We can assume that work will be done for the first 12 weeks, from June 14th to September 10th. If you need help at any time, messaging on Discord is sufficient. Here is an outline for each week:
 
 ### Week 1 (June 14th-18th)
 
