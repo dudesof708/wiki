@@ -14,9 +14,9 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ### Week 1 (June 14th-18th)
 
-* Add a job posting for a software engineering intern to the Dudes of 708 website
-* Find a template for a privacy policy and add it to the Dudes of 708 website
-* Write some text and potentially add some images for each project listed on the Dudes of 708 website
+* Add a job posting for a software engineering intern to the [Dudes of 708 website](https://dudesof708.com)
+* Find a template for a privacy policy and add it to the [Dudes of 708 website](https://dudesof708.com)
+* Write some text and potentially add some images for each project listed on the [Dudes of 708 website](https://dudesof708.com)
 * Collect open source photos of cheese for the CheeseHub project
 
 ### Week 2 (June 21st-25th)
@@ -70,7 +70,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ## To Do
 
-* Update the Dudes of 708 website. Add a job posting for a software engineering intern, add information regarding each of our projects, and add a privacy policy.
+* Update the [Dudes of 708 website](https://dudesof708.com). Add a job posting for a software engineering intern, add information regarding each of our projects, and add a privacy policy.
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* Bootstrap 5
