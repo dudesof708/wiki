@@ -66,7 +66,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 ## In Progress
 
 * Collect information about prices of items in Trader Joe's. Please upload new data via the ChompChomp app. If you need help installing the app, please see the [guide on the wiki](../../software/chompchomp/).
-  * *Suggested tools:* ChompChomp
+  * *Suggested tools:* [ChompChomp](../../software/chompchomp/)
 
 ## To Do
 
