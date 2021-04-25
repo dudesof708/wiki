@@ -87,13 +87,3 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggested tools:* Git
   * *Suggested programming languages:* Python, Javascript, HTML, CSS
   * *Suggested libraries:* Flask, React, React Native, Bootstrap 5
-* (This is an extra project you are unlikely to get to.) Create an astronomy app for mobile devices, cross-platform for both iOS and Android. It should be simple and easy to use, support dark mode, and have the following features:
-  * Map of light pollution
-  * Built-in planetarium to locate things in the night sky
-  * Weather and cloud cover forecasts
-  * Calculate and plot the angle of the sun and moon
-  * Calculate depth of field and hyperfocal distances
-
-  * *Suggested tools:* Expo, Git
-  * *Suggested programming languages:* Javascript
-  * *Suggested libraries:* React, React Native
