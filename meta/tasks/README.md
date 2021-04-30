@@ -74,6 +74,10 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* Bootstrap 5
+* Merge [DCCVII-α](https://sites.google.com/view/dccviii-alpha/home) to our main website.
+  * *Suggested tools:* [Git](../../software/git/)
+  * *Suggested programming languages:* HTML, CSS
+  * *Suggested libraries:* Bootstrap 5
 * Update the ChompChomp app and server. More information to come soon (based on how much is finished before the summer starts).
   * *Suggseted tools:* Expo, [Git](../../software/git/)
   * *Suggested programming languages:* Javascript, Python
