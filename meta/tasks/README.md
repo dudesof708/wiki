@@ -21,6 +21,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ### Week 2 (June 21st-25th)
 
+* Merge [DCCVII-α](https://sites.google.com/view/dccviii-alpha/home) to our main website.
 * Collect open source photos of cheese for the CheeseHub project
 
 ### Week 3 (June 28th-July 2nd)
