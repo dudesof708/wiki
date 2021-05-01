@@ -22,21 +22,32 @@ The database stores multiple types of items:
 
 An item in the grocery store.
 
+Notes:
+
+* Only interday prices are tracked, no need for intraday
+* Pretty much everything is optional (if the value is 0, don't include it)
+* `unit` is `EA` (each), `PK` (pack), `OZ` (ounces), `LB` (pounds), `KG` (kilos). If `unit` is `PK`, then `unit_size` default is likely not 1
+* All nutrition facts in grams. May need to convert oz to grams to figure out number of servings
+* IDs are for internal database tracking
+
 Example:
 
 ```json
 {
-  "barcode": "00000000",
-  "barcode_type": "EAN8",
-  "name": "Cheese Wheel",
-  "price": 1.99,
+  "id": 0,
+  "store": 0,
+  "barcode": "0076394622502",
+  "barcode_type": "UPC",
+  "name": "Alfaro's Astesano White Bakery Bread",
+  "price": 3.49,
   "unit": "EA",
-  "weight": 16,
+  "unit_size": 1,
+  "weight": 20,
   "prices": [
     {
-      "store": 100,
+      "store": 1,
       "date": "2021/01/01",
-      "price": 1.99
+      "price": 3.49
     }
   ],
   "images": [
@@ -52,7 +63,39 @@ Example:
       "type": "uri",
       "data": "https://i.imgur.com/2dn06CW.png"
     }
-  ]
+  ],
+  "nutrition": {
+    "serving_size": 38,
+    "servings": 15,
+    "calories": 110,
+    "fat": {
+      "total": 1.5,
+      "saturated": 0,
+      "trans": 0,
+      "poly": 0.5, // Polyunsaturated Fat
+      "mono": 0 // Monounsaturated Fat
+    },
+    "cholesterol": 0,
+    "sodium": 0.19,
+    "carbs": {
+      "total": 20,
+      "fiber": 1,
+      "sugar": 2
+    },
+    "protein": 3,
+    "vitamin": {
+      "a": 0,
+      "b": 0,
+      "c": 0,
+      "d": 0,
+      "k": 0
+    },
+    "other": {
+      "calcium": 0.05,
+      "iron": 0.0011,
+      "potassium": 0
+    }
+  }
 }
 ```
 
