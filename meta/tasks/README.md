@@ -81,3 +81,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* Python, Javascript, HTML, CSS
   * *Suggested libraries:* Flask, React, React Native, [Bootstrap 5](https://getbootstrap.com/)
+
+## Project Sputnik
+
+* Create a square icon
