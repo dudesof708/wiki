@@ -85,3 +85,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 ## Project Sputnik
 
 * Create a square icon
+* Implement search bar
+* Vertically center login page
+* Create a nice 404 page
+* Create a nice Unauthorized page
