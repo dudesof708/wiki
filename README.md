@@ -12,6 +12,7 @@ Welcome to the knowledge base of the **Dudes of 708** development page!
   * [ChompChomp](development/chompchomp)
   * [ChompChomp Server](development/chompchomp-server)
   * [Sputnik](development/sputnik)
+  * [Sputnik App](development/sputnik-app)
   * [Website](development/website)
 * [Glossary](glossary)
 * [Projects](projects)

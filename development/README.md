@@ -9,6 +9,7 @@
 * [ChompChomp](chompchomp)
 * [ChompChomp Server](chompchomp-server)
 * [Sputnik](sputnik)
+* [Sputnik App](sputnik-app)
 * [Website](website)
 
 -----
