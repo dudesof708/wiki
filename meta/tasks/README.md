@@ -85,6 +85,13 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 ## Project Sputnik
 
 * Create a square icon and generate sizes for apps/web/etc.
+
+### App
+
+* Create an onboarding screen (a screen that shows the first time you launch an app explaining what the app does, for code see [this Stack Overflow](https://stackoverflow.com/questions/40715266/how-to-detect-first-launch-in-react-native))
+
+### Web
+
 * Create a nice landing page
 * Create a nice 404 page
 * Create a nice Unauthorized page
