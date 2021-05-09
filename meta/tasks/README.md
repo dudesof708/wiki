@@ -89,4 +89,4 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 * Create a nice 404 page
 * Create a nice Unauthorized page
 * Implement search bar
-* Implmeent actual login
+* Implmeent actual login with real users database
