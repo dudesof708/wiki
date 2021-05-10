@@ -92,11 +92,13 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 ### Web
 
+* Create images for each cuisine with a placeholder
 * Create a nice landing page
 * Create a nice 404 page
 * Create a nice Unauthorized page
 * Make the navbar active on the current page
 * Make the profile show total, not just total for the year
 * Implement the ability to visit others' profiles
+* Implement ability to update profile
 * Implement search bar
 * Implmeent actual login with real users database
