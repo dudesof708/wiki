@@ -95,5 +95,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 * Create a nice landing page
 * Create a nice 404 page
 * Create a nice Unauthorized page
+* Make the navbar active on the current page
+* Implement dynamic profile data
 * Implement search bar
 * Implmeent actual login with real users database
