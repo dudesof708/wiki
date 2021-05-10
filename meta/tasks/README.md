@@ -97,5 +97,6 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 * Create a nice Unauthorized page
 * Make the navbar active on the current page
 * Make the profile show total, not just total for the year
+* Implement the ability to visit others' profiles
 * Implement search bar
 * Implmeent actual login with real users database
