@@ -89,6 +89,9 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 ### App
 
 * Create an onboarding screen (a screen that shows the first time you launch an app explaining what the app does, for code see [this Stack Overflow](https://stackoverflow.com/questions/40715266/how-to-detect-first-launch-in-react-native))
+* Implement a login screen so only authenticated users can log in
+* Create a tabbed view for Home, Groceries, Recipes, History, and Profile
+* The profile tab should show your name, profile picture, role, and some eating statistics (for inspiration, see `sputnik-web`)
 
 ### Web
 
