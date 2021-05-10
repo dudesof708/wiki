@@ -62,21 +62,12 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 * Collect open source photos of cheese for the CheeseHub project
 
-## In Progress
-
-* Collect information about prices of items in Trader Joe's. Please upload new data via the ChompChomp app. If you need help installing the app, please see the [guide on the wiki](../../software/chompchomp/).
-  * *Suggested tools:* [ChompChomp](../../software/chompchomp/)
-
 ## To Do
 
 * Update the [Dudes of 708 website](https://dudesof708.com). Add a job posting for a software engineering intern and add information regarding each of our projects.
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* [Bootstrap 5](https://getbootstrap.com/)
-* Prepare a frontend and a backend for Project Sputnik. Achieve to develop as much as possible. More information to come soon (based on how much is finished before the summer starts).
-  * *Suggested tools:* Expo, [Git](../../software/git/)
-  * *Suggested programming languages:* Python, Javascript, HTML, CSS
-  * *Suggseted libraries:* Flask, React, React Native, [Bootstrap 5](https://getbootstrap.com/)
 * CheeseHub: A hub to see all kinds of cheese, like black cheese, mixed cheese, HD cheese, cheese toys, anime cheese, and more. Create a backend that serves photos of cheese using a CDN and a frontend via some cross-platform web development.
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* Python, Javascript, HTML, CSS
