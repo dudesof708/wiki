@@ -16,51 +16,28 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
 
 * Add a job posting for a software engineering intern to the [Dudes of 708 website](https://dudesof708.com)
 * Write some text and potentially add some images for each project listed on the [Dudes of 708 website](https://dudesof708.com)
-* Collect open source photos of cheese for the CheeseHub project
 
 ### Week 2 (June 21st-25th)
 
-* Collect open source photos of cheese for the CheeseHub project
-
 ### Week 3 (June 28th-July 2nd)
-
-* Collect open source photos of cheese for the CheeseHub project
 
 ### Week 4 (July 5th-9th)
 
-* Collect open source photos of cheese for the CheeseHub project
-
 ### Week 5 (July 12th-16th)
-
-* Collect open source photos of cheese for the CheeseHub project
 
 ### Week 6 (July 19th-23rd)
 
-* Collect open source photos of cheese for the CheeseHub project
-
 ### Week 7 (July 26th-30th)
-
-* Collect open source photos of cheese for the CheeseHub project
 
 ### Week 8 (August 2nd-6th)
 
-* Collect open source photos of cheese for the CheeseHub project
-
 ### Week 9 (August 9th-13th)
-
-* Collect open source photos of cheese for the CheeseHub project
 
 ### Week 10 (August 16th-20th)
 
-* Collect open source photos of cheese for the CheeseHub project
-
 ### Week 11 (August 23rd-27th)
 
-* Collect open source photos of cheese for the CheeseHub project
-
 ### Week 12 (August 30th-September 3rd)
-
-* Collect open source photos of cheese for the CheeseHub project
 
 ## To Do
 
@@ -68,10 +45,6 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* [Bootstrap 5](https://getbootstrap.com/)
-* CheeseHub: A hub to see all kinds of cheese, like black cheese, mixed cheese, HD cheese, cheese toys, anime cheese, and more. Create a backend that serves photos of cheese using a CDN and a frontend via some cross-platform web development.
-  * *Suggested tools:* [Git](../../software/git/)
-  * *Suggested programming languages:* Python, Javascript, HTML, CSS
-  * *Suggested libraries:* Flask, React, React Native, [Bootstrap 5](https://getbootstrap.com/)
 
 ## Project Sputnik
 
