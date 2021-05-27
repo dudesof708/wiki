@@ -45,7 +45,7 @@ Summer runs for 14 weeks, from June 14th to September 17th. We can assume that w
   * *Suggested tools:* [Git](../../software/git/)
   * *Suggested programming languages:* HTML, CSS
   * *Suggested libraries:* [Bootstrap 5](https://getbootstrap.com/)
-* Types of cheese poster [inspiration #1](https://www.etsy.com/listing/990355626/food-poster-kitchen-art-cheese-poster?ga_search_query=cheese+poster&ref=sr_gallery-2-6&organic_search_click=1&frs=1) and types of rice poster kind of like [this guy](https://www.etsy.com/listing/500814436/coffee-guide-print-coffee-print-coffee?ga_search_query=cheese+poster&ref=sr_gallery-1-15&organic_search_click=1&bes=1)
+* Types of cheese poster [inspiration #1](https://www.etsy.com/listing/990355626/food-poster-kitchen-art-cheese-poster?ga_search_query=cheese+poster&ref=sr_gallery-2-6&organic_search_click=1&frs=1), [inspiration #2](https://www.etsy.com/listing/777377397/kitchen-poster-prints-coffee-tea-bread?ga_search_query=cheese+poster&ref=sr_gallery-2-7&organic_search_click=1&pro=1) and types of rice poster kind of like [this guy](https://www.etsy.com/listing/500814436/coffee-guide-print-coffee-print-coffee?ga_search_query=cheese+poster&ref=sr_gallery-1-15&organic_search_click=1&bes=1)
 
 ## Project Sputnik
 
