@@ -20,13 +20,15 @@ The official C style guide is coming soon. For now, please contact our engineeri
 
 ## Javascript
 
-Our Javascript style guide is adapted from [Airbnb's Internal ES6 Style Guide](https://github.com/airbnb/javascript).
+Our Javascript style guide is adapted from [Airbnb's Internal ES6 Style Guide](https://github.com/airbnb/javascript). Listed below are the most important resources, but for more style guidelines and interpretations, see the Airbnb style guideline link above.
 
 ### Javascript: Table of Contents
 
 * [Types](#javascript-types)
 * [Objects](#javascript-objects)
 * [Arrays](#javascript-arrays)
+* [Functions](#javascript-functions)
+* [Syntax](#javascript-syntax)
 
 [Back to top](#table-of-contents)
 
@@ -80,6 +82,42 @@ Our Javascript style guide is adapted from [Airbnb's Internal ES6 Style Guide](h
    array.forEach((item) => {
        // do something cool
    });
+   ```
+
+[Back to top (Javascript)](#javascript-table-of-contents)
+
+### Javascript: Functions
+
+1. Avoid self-invoking functions. If you choose to use one, wrap one in parenthesis. Example:
+
+   ```js
+   (function() {
+       // do something cool
+   })());
+   ```
+
+2. Avoid reassigning parameters.
+3. Use arrow function notation for an anonymous callback. Example:
+
+   ```js
+   const myArray = new Array();
+   myArray.forEach((item) => {
+       // do something cool
+   });
+   ```
+
+[Back to top (Javascript)](#javascript-table-of-contents)
+
+### Javascript: Syntax
+
+1. Use multiline imports. Example:
+
+   ```js
+   import {
+       moduleA,
+       module B,
+       module C
+   } from 'package';
    ```
 
 [Back to top (Javascript)](#javascript-table-of-contents)
