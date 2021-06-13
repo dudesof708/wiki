@@ -9,7 +9,9 @@
 * [ChompChomp](chompchomp)
 * [ChompChomp Server](chompchomp-server)
 * [Sputnik](sputnik)
+* [Sputnik API](sputnik-api)
 * [Sputnik App](sputnik-app)
+* [Stype Guide](style-guide)
 * [Website](website)
 
 -----
