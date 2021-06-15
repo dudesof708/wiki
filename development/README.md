@@ -11,7 +11,7 @@
 * [Sputnik](sputnik)
 * [Sputnik API](sputnik-api)
 * [Sputnik App](sputnik-app)
-* [Stype Guide](style-guide)
+* [Style Guide](style-guide)
 * [Website](website)
 
 -----
